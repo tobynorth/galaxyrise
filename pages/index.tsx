@@ -15,7 +15,9 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Galaxyrise
         </h1>
-        <GalaxyMap />
+        <div className={styles.map}>
+          <GalaxyMap />
+        </div>
       </main>
     </div>
   )
