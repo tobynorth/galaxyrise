@@ -19,7 +19,7 @@ export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
       onClick={(event) => click(!clicked)}
       onPointerOver={(event) => hover(true)}
       onPointerOut={(event) => hover(false)}>
-      <boxGeometry args={[1, 1, 1]} />
+      <sphereGeometry args={[1]} />
       <meshStandardMaterial color={hovered ? 'hotpink' : 'orange'} />
     </mesh>
   )
