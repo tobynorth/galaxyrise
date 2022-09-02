@@ -1,4 +1,5 @@
-import React from 'react'
+import { useRef } from 'react'
+import { Vector3 } from 'three'
 
 interface CelestialBodyProps {
   type: string,
@@ -31,25 +32,12 @@ let getColor = (type : string): string => {
   }
 };
 
-let getLogScaleVal = (rawNum : number): number => {
-  let absVal = Math.abs(rawNum);
-  if (absVal < 1) {
-    return 0;
-  }
-  return Math.round((Math.log10(absVal) + Number.EPSILON) * 100) / 100 * Math.sign(rawNum);
-};
-
 export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
-  let scaledDist = getLogScaleVal(props.distance);
-  let x = scaledDist * Math.cos(props.declination) * Math.cos(props.rightAscension),
-    y = scaledDist * Math.cos(props.declination) * Math.sin(props.rightAscension),
-    z = scaledDist * Math.sin(props.declination);
-    console.log("x, y, z: " + x + ", " + y + ", " + z)
-    console.log("orig dist: " + props.distance + ", scaled dist: " + scaledDist)
-    console.log("actual radius: " + getLogScaleVal(props.radius / 1000))
+  const posRef = useRef(new Vector3());
+  posRef.current.setFromSphericalCoords(props.distance, props.declination, props.rightAscension);
   return (
     <mesh
-      position={[x, y, z]}
+      position={posRef.current}
       scale={1}>
       <sphereGeometry args={[getLogScaleVal(props.radius) / 1000]} />
       <meshStandardMaterial color={getColor(props.type)} />
