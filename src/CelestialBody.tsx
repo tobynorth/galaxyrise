@@ -39,7 +39,7 @@ export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
     <mesh
       position={posRef.current}
       scale={1}>
-      <sphereGeometry args={[getLogScaleVal(props.radius) / 1000]} />
+      <sphereGeometry args={[props.radius]} />
       <meshStandardMaterial color={getColor(props.type)} />
     </mesh>
   )

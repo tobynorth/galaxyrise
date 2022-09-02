@@ -9,7 +9,7 @@ export default function GalaxyMap() {
     {
       name: "The Sun",
       type: "G2V",
-      radius: 695700,
+      radius: 1,
       distance: 0,
       declination: 0,
       rightAscension: 0
@@ -17,7 +17,7 @@ export default function GalaxyMap() {
     {
       name: "Aldebaran",
       type: "K5+ III",
-      radius: 45.1 * 695700,
+      radius: 45.1,
       distance: 65.3,
       declination: (16 + 30/60 + 33.4885/3600) * Math.PI / 180,
       rightAscension: (15 * (4 + 35/60 + 55.23907/3600)) * Math.PI / 180
