@@ -56,7 +56,7 @@ export default function GalaxyMap() {
     }
   ];
   return (
-      <Canvas camera={{fov: 25, position: [0, 0, -100], far: 100000000}} >
+      <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
           <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
