@@ -55,6 +55,7 @@ let getRenderRadius = (solarRadii: number): number => {
 export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
   const posRef = useRef(new Vector3());
   posRef.current.setFromSphericalCoords(props.distance, props.declination, props.rightAscension);
+  posRef.current.y += 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return (
     <mesh
       position={posRef.current}

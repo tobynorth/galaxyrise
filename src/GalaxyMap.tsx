@@ -60,7 +60,7 @@ export default function GalaxyMap() {
           <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
-          <gridHelper args={[20, 20]} />
+          <gridHelper args={[21, 21]} />
           { celestialBodies.map(c => <CelestialBody {...c} key={c.name} />) }
       </Canvas>
   )
