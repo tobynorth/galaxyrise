@@ -10,6 +10,7 @@ interface CelestialBodyProps {
 };
 
 const MAX_RADIUS : number = 0.5
+const LY_PER_UNIT : number = 10
 
 let getRenderColor = (type : string): string => {
   // Ignoring class subdivisions (0-9), at least for now
@@ -55,6 +56,8 @@ let getRenderRadius = (solarRadii: number): number => {
 export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
   const posRef = useRef(new Vector3());
   posRef.current.setFromSphericalCoords(props.distance, -1 * props.galacticLatitude + Math.PI / 2, props.galacticLongitude + Math.PI / 2);
+  posRef.current.multiplyScalar(1 / LY_PER_UNIT);
+  posRef.current.round();
   posRef.current.y += 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return (
     <mesh
