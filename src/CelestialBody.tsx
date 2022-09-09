@@ -5,8 +5,8 @@ interface CelestialBodyProps {
   type: string,
   radius: number,
   distance: number,
-  declination: number,
-  rightAscension : number
+  galacticLatitude: number,
+  galacticLongitude: number
 };
 
 const MAX_RADIUS : number = 0.5
@@ -54,7 +54,7 @@ let getRenderRadius = (solarRadii: number): number => {
 
 export default function CelestialBody(props: CelestialBodyProps) : JSX.Element {
   const posRef = useRef(new Vector3());
-  posRef.current.setFromSphericalCoords(props.distance, props.declination, props.rightAscension);
+  posRef.current.setFromSphericalCoords(props.distance, -1 * props.galacticLatitude + Math.PI / 2, props.galacticLongitude + Math.PI / 2);
   posRef.current.y += 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return (
     <mesh
