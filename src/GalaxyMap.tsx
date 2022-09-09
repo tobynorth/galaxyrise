@@ -19,17 +19,17 @@ export default function GalaxyMap() {
       type: "K5+ III",
       radius: 45.1,
       distance: 65.3,
-      galacticLatitude: -20.25 * Math.PI / 180,
-      galacticLongitude: 180.97 * Math.PI / 180
+      galacticLatitude: -20.25,
+      galacticLongitude: 180.97
     },
-    // {
-    //   name: "Betelgeuse",
-    //   type: "M1–M2 Ia–ab",
-    //   radius: 764 * 695700,
-    //   distance: 548,
-    //   galacticLatitude: (7 + 24/60 + 25.4304/3600) * Math.PI / 180,
-    //   galacticLongitude: (15 * (5 + 55/60 + 10.30536/3600)) * Math.PI / 180
-    // },
+    {
+      name: "Betelgeuse",
+      type: "M1–M2 Ia–ab",
+      radius: 764,
+      distance: 548,
+      galacticLatitude: -8.96,
+      galacticLongitude: 199.79
+    },
     // {
     //   name: "Alpha Centauri A",
     //   type: "G2V",
