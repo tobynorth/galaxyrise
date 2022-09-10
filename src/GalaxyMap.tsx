@@ -5,12 +5,14 @@ import { OrbitControls } from '@react-three/drei'
 import { Vector3 } from 'three'
 
 const LY_PER_UNIT : number = 3
+const MAX_HORIZ_DIST_FROM_ORIGIN : number = 10
+const MAX_VERT_DIST_FROM_ORIGIN : number = 5
 
 let convertToGridCoords = (position: Vector3) : Vector3 => {
   position.setFromSphericalCoords(position.x, (-1 * position.y + 90) * Math.PI / 180, (position.z + 90) * Math.PI / 180);
   position.multiplyScalar(1 / LY_PER_UNIT);
   position.round();
-  position.y += 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
+  position.y += MAX_VERT_DIST_FROM_ORIGIN + 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return position;
 }
 
@@ -60,13 +62,13 @@ export default function GalaxyMap() {
     //   galacticLongitude: (15 * (14 + 29/60 + 42.94853/3600)) * Math.PI / 180
     // }
   ];
-
+  let gridSize = MAX_HORIZ_DIST_FROM_ORIGIN * 2 + 1;
   return (
       <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
           <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
-          <gridHelper args={[21, 21]} />
+          <gridHelper args={[gridSize, gridSize]} />
           { celestialBodies.map(c => <CelestialBody {...{...c, coordinates: convertToGridCoords(c.coordinates)}} key={c.name} />) }
       </Canvas>
   )
