@@ -1,34 +1,39 @@
 import React from 'react'
 import { Canvas } from '@react-three/fiber'
-import CelestialBody from './CelestialBody';
+import { CelestialBody, CelestialBodyProps } from './CelestialBody';
 import { OrbitControls } from '@react-three/drei'
+import { Vector3 } from 'three'
+
+const LY_PER_UNIT : number = 3
+
+let convertToGridCoords = (position: Vector3) : Vector3 => {
+  position.setFromSphericalCoords(position.x, (-1 * position.y + 90) * Math.PI / 180, (position.z + 90) * Math.PI / 180);
+  position.multiplyScalar(1 / LY_PER_UNIT);
+  position.round();
+  position.y += 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
+  return position;
+}
 
 export default function GalaxyMap() {
   // Temporary test data
-  let celestialBodies = [
+  let celestialBodies : CelestialBodyProps[] = [
     {
       name: "The Sun",
       type: "G2V",
       radius: 1,
-      distance: 0,
-      galacticLatitude: 0,
-      galacticLongitude: 0
+      coordinates: new Vector3(0, 0, 0)
     },
     {
       name: "Aldebaran",
       type: "K5+ III",
       radius: 45.1,
-      distance: 65.3,
-      galacticLatitude: -20.25,
-      galacticLongitude: 180.97
+      coordinates: new Vector3(65.3, -20.25, 180.97)
     },
     {
       name: "Betelgeuse",
       type: "M1–M2 Ia–ab",
       radius: 764,
-      distance: 548,
-      galacticLatitude: -8.96,
-      galacticLongitude: 199.79
+      coordinates: new Vector3(548, -8.96, 199.79)
     },
     // {
     //   name: "Alpha Centauri A",
@@ -55,13 +60,14 @@ export default function GalaxyMap() {
     //   galacticLongitude: (15 * (14 + 29/60 + 42.94853/3600)) * Math.PI / 180
     // }
   ];
+
   return (
       <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
           <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
           <gridHelper args={[21, 21]} />
-          { celestialBodies.map(c => <CelestialBody {...c} key={c.name} />) }
+          { celestialBodies.map(c => <CelestialBody {...{...c, coordinates: convertToGridCoords(c.coordinates)}} key={c.name} />) }
       </Canvas>
   )
 }
