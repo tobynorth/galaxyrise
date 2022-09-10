@@ -62,6 +62,7 @@ export default function GalaxyMap() {
     //   galacticLongitude: (15 * (14 + 29/60 + 42.94853/3600)) * Math.PI / 180
     // }
   ];
+  celestialBodies.forEach(c => c.coordinates = convertToGridCoords(c.coordinates));
   let gridSize = MAX_HORIZ_DIST_FROM_ORIGIN * 2 + 1;
   return (
       <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
@@ -69,7 +70,15 @@ export default function GalaxyMap() {
           <ambientLight />
           <color attach="background" args={["black"]} />
           <gridHelper args={[gridSize, gridSize]} />
-          { celestialBodies.map(c => <CelestialBody {...{...c, coordinates: convertToGridCoords(c.coordinates)}} key={c.name} />) }
+          { celestialBodies
+            .filter(c =>
+              c.coordinates.x >= -MAX_HORIZ_DIST_FROM_ORIGIN &&
+              c.coordinates.x <= MAX_HORIZ_DIST_FROM_ORIGIN &&
+              c.coordinates.y >= 0 &&
+              c.coordinates.y <= MAX_VERT_DIST_FROM_ORIGIN * 2 &&
+              c.coordinates.z >= -MAX_HORIZ_DIST_FROM_ORIGIN &&
+              c.coordinates.z <= MAX_HORIZ_DIST_FROM_ORIGIN)
+            .map(c => <CelestialBody {...c} key={c.name} />) }
       </Canvas>
   )
 }
