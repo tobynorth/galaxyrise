@@ -7,12 +7,13 @@ import { Vector3 } from 'three'
 const LY_PER_UNIT : number = 3
 const MAX_HORIZ_DIST_FROM_ORIGIN : number = 10
 const MAX_VERT_DIST_FROM_ORIGIN : number = 5
+const Y_OFFSET: number = 0.5
 
 let convertToGridCoords = (position: Vector3) : Vector3 => {
   position.setFromSphericalCoords(position.x, (-1 * position.y + 90) * Math.PI / 180, (position.z + 90) * Math.PI / 180);
   position.multiplyScalar(1 / LY_PER_UNIT);
   position.round();
-  position.y += MAX_VERT_DIST_FROM_ORIGIN + 0.5; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
+  position.y += MAX_VERT_DIST_FROM_ORIGIN + Y_OFFSET; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return position;
 }
 
@@ -116,8 +117,8 @@ export default function GalaxyMap() {
             .filter(c =>
               c.coordinates.x >= -MAX_HORIZ_DIST_FROM_ORIGIN &&
               c.coordinates.x <= MAX_HORIZ_DIST_FROM_ORIGIN &&
-              c.coordinates.y >= 0 &&
-              c.coordinates.y <= MAX_VERT_DIST_FROM_ORIGIN * 2 &&
+              c.coordinates.y >= Y_OFFSET &&
+              c.coordinates.y <= MAX_VERT_DIST_FROM_ORIGIN * 2 + Y_OFFSET &&
               c.coordinates.z >= -MAX_HORIZ_DIST_FROM_ORIGIN &&
               c.coordinates.z <= MAX_HORIZ_DIST_FROM_ORIGIN)
             .map(c => <CelestialBody {...c} key={c.name} />) }
