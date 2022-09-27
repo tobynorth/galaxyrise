@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Vector3 } from 'three'
 
 const MAX_RADIUS : number = 0.5
@@ -47,10 +48,28 @@ let getRenderRadius = (solarRadii: number): number => {
 }
 
 export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
+  const [hovered, hover] = useState(false)
+
+  
+  if (hovered) {
+    let txt = document.createElement("div");
+    txt.id = "hover_label"
+    txt.style.position = "absolute";
+    txt.style.color = "white"
+    txt.innerHTML = props.name;
+    txt.style.top = 200 + "px";
+    txt.style.left = 200 + "px";
+    document.body.appendChild(txt);
+  } else {
+    document.getElementById("hover_label")?.remove();
+  }
+  
   return (
     <mesh
       position={props.coordinates}
-      scale={1}>
+      scale={1}
+      onPointerOver={() => hover(true)}
+      onPointerOut={() => hover(false)}>
       <sphereGeometry args={[getRenderRadius(props.radius)]} />
       <meshStandardMaterial color={getRenderColor(props.type)} />
     </mesh>
