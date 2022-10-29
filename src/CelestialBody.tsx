@@ -24,8 +24,10 @@ let getRenderColor = (type : string): string => {
     case "L":
     case "T":
       return "saddlebrown";
+    case "C":
+      return "red";
     default:
-      return "";
+      return "white";
   }
 };
 
