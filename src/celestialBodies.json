@@ -7,28 +7,10 @@
       "coordinates": [0, 0, 0]
     },
     {
-      "name": "Aldebaran",
-      "type": "K5+ III",
-      "radius": 45.1,
-      "coordinates": [65.3, -20.25, 180.97]
-    },
-    {
-      "name": "Betelgeuse",
-      "type": "M1–M2 Ia–ab",
-      "radius": 764,
-      "coordinates": [548, -8.96, 199.79]
-    },
-    {
       "name": "Alpha Centauri",
       "type": "G",
       "radius": 1.1,
       "coordinates": [4.37, -0.67, 315.72]
-    },
-    {
-      "name": "Barnard's Star",
-      "type": "M",
-      "radius": 0.196,
-      "coordinates": [5.9629, 14.06, 31.01]
     },
     {
       "name": "Luhman 16",
@@ -49,16 +31,2699 @@
       "coordinates": [8.3044, 65.43, 185.12]
     },
     {
-      "name": "Sirius",
-      "type": "A",
-      "radius": 1.711,
-      "coordinates": [8.7, -8.89, 227.23]
-    },
-    {
       "name": "Luyten 726-8",
       "type": "M",
       "radius": 0.14,
       "coordinates": [8.724, -75.7, 175.49]
+    },
+
+    {
+      "name": "Absolutno",
+      "type": "G",
+      "radius": 1.08,
+      "coordinates": [910, 26.93, 180.63]
+    },
+    {
+      "name": "Acamar",
+      "type": "A",
+      "radius": 2.7,
+      "coordinates": [164, -60.74, 247.86]
+    },
+    {
+      "name": "Achernar",
+      "type": "B",
+      "radius": 6.78,
+      "coordinates": [139, -58.79, 290.84]
+    },
+    {
+      "name": "Achird",
+      "type": "G",
+      "radius": 1.0386,
+      "coordinates": [19.32, -5.05, 122.62]
+    },
+    {
+      "name": "Acrab",
+      "type": "B",
+      "radius": 6.3,
+      "coordinates": [400, 23.60, 353.19]
+    },
+    {
+      "name": "Acrux",
+      "type": "B",
+      "radius": 7.8,
+      "coordinates": [320, -0.36, 300.13]
+    },
+    {
+      "name": "Acubens",
+      "type": "A",
+      "radius": 3.43,
+      "coordinates": [178, 33.52, 216.51]
+    },
+    {
+      "name": "Adhafera",
+      "type": "F",
+      "radius": 6,
+      "coordinates": [274, 54.96, 210.23]
+    },
+    {
+      "name": "Adhara",
+      "type": "B",
+      "radius": 13.9,
+      "coordinates": [430, -11.33, 239.83]
+    },
+    {
+      "name": "Adhil",
+      "type": "K",
+      "radius": 10,
+      "coordinates": [223, -17.00, 128.58]
+    },
+    {
+      "name": "Ain",
+      "type": "K",
+      "radius": 12.692,
+      "coordinates": [147, -19.92, 177.60]
+    },
+    {
+      "name": "Ainalrami",
+      "type": "G",
+      "radius": 101,
+      "coordinates": [1400, -10.72, 12.74]
+    },
+    {
+      "name": "Aladfar",
+      "type": "B",
+      "radius": 4.3,
+      "coordinates": [1390, 12.75, 70.62]
+    },
+    {
+      "name": "Alasia",
+      "type": "G",
+      "radius": 1.124,
+      "coordinates": [135.7, 1.03, 18.96]
+    },
+    {
+      "name": "Albaldah",
+      "type": "F",
+      "radius": 23.606,
+      "coordinates": [520, -13.29, 15.89]
+    },
+    {
+      "name": "Albali",
+      "type": "A",
+      "radius": 2.5,
+      "coordinates": [208, -30.10, 37.68]
+    },
+    {
+      "name": "Albireo",
+      "type": "K",
+      "radius": 62,
+      "coordinates": [430, 4.57, 62.11]
+    },
+    {
+      "name": "Alchiba",
+      "type": "F",
+      "radius": 1.447,
+      "coordinates": [48.7, 37.12, 290.66]
+    },
+    {
+      "name": "Alcor",
+      "type": "A",
+      "radius": 1.846,
+      "coordinates": [81.7, 61.47, 112.77]
+    },
+    {
+      "name": "Alcyone",
+      "type": "B",
+      "radius": 9.3,
+      "coordinates": [443.57, -23.46, 166.67]
+    },
+    {
+      "name": "Aldebaran",
+      "type": "K",
+      "radius": 45.1,
+      "coordinates": [65.3, -20.25, 180.97]
+    },
+    {
+      "name": "Alderamin",
+      "type": "A",
+      "radius": 2.175,
+      "coordinates": [49.05, 9.17, 101.00]
+    },
+    {
+      "name": "Aldhanab",
+      "type": "B",
+      "radius": 4.5,
+      "coordinates": [211, -51.47, 6.11]
+    },
+    {
+      "name": "Aldhibah",
+      "type": "B",
+      "radius": 2.3,
+      "coordinates": [330, 35.04, 96.01]
+    },
+    {
+      "name": "Aldulfin",
+      "type": "B",
+      "radius": 4.6,
+      "coordinates": [330, -16.59, 55.42]
+    },
+    {
+      "name": "Alfirk",
+      "type": "B",
+      "radius": 5.6,
+      "coordinates": [690, 14.03, 107.54]
+    },
+    {
+      "name": "Algedi",
+      "type": "G",
+      "radius": 8.38,
+      "coordinates": [102, -24.81, 31.10]
+    },
+    {
+      "name": "Algenib",
+      "type": "B",
+      "radius": 4.8,
+      "coordinates": [470, -46.68, 109.43]
+    },
+    {
+      "name": "Algieba",
+      "type": "K",
+      "radius": 31.88,
+      "coordinates": [130, 54.65, 216.55]
+    },
+    {
+      "name": "Algol",
+      "type": "A",
+      "radius": 2.73,
+      "coordinates": [90, -14.90, 148.98]
+    },
+    {
+      "name": "Algorab",
+      "type": "A",
+      "radius": 2.308,
+      "coordinates": [86.9, 46.04, 295.47]
+    },
+    {
+      "name": "Alhena",
+      "type": "A",
+      "radius": 3.3,
+      "coordinates": [109, 4.45, 196.77]
+    },
+    {
+      "name": "Alioth",
+      "type": "A",
+      "radius": 4.14,
+      "coordinates": [82.6, 61.16, 122.18]
+    },
+    {
+      "name": "Aljanah",
+      "type": "K",
+      "radius": 10.82,
+      "coordinates": [72.7, -5.72, 75.95]
+    },
+    {
+      "name": "Alkaid",
+      "type": "B",
+      "radius": 3.4,
+      "coordinates": [103.9, 65.32, 100.70]
+    },
+    {
+      "name": "Alkalurops",
+      "type": "F",
+      "radius": 1.9,
+      "coordinates": [121, 56.32, 60.39]
+    },
+    {
+      "name": "Alkaphrah",
+      "type": "A",
+      "radius": 7.87,
+      "coordinates": [360, 41.63, 172.63]
+    },
+    {
+      "name": "Alkarab",
+      "type": "F",
+      "radius": 5.97,
+      "coordinates": [170, -35.36, 98.56]
+    },
+    {
+      "name": "Alkes",
+      "type": "K",
+      "radius": 12.32,
+      "coordinates": [141, 37.12, 269.05]
+    },
+    {
+      "name": "Almaaz",
+      "type": "F",
+      "radius": 143,
+      "coordinates": [3300, 1.18, 162.79]
+    },
+    {
+      "name": "Almach",
+      "type": "K",
+      "radius": 80,
+      "coordinates": [390, -18.56, 136.96]
+    },
+    {
+      "name": "Alnair",
+      "type": "B",
+      "radius": 3.4,
+      "coordinates": [101, -52.47, 350.00]
+    },
+    {
+      "name": "Alnasl",
+      "type": "K",
+      "radius": 12,
+      "coordinates": [96.9, -4.54, 0.92]
+    },
+    {
+      "name": "Alnilam",
+      "type": "B",
+      "radius": 32.4,
+      "coordinates": [2000, -17.24, 205.21]
+    },
+    {
+      "name": "Alnitak",
+      "type": "O",
+      "radius": 20,
+      "coordinates": [1260, -16.59, 206.45]
+    },
+    {
+      "name": "Alniyat",
+      "type": "B",
+      "radius": 12.7,
+      "coordinates": [568, 17.00, 351.31]
+    },
+    {
+      "name": "Alphard",
+      "type": "K",
+      "radius": 50.5,
+      "coordinates": [177, 29.05, 241.49]
+    },
+    {
+      "name": "Alphecca",
+      "type": "A",
+      "radius": 2.89,
+      "coordinates": [75, 53.77, 41.87]
+    },
+    {
+      "name": "Alpheratz",
+      "type": "B",
+      "radius": 2.7,
+      "coordinates": [97, -32.84, 111.73]
+    },
+    {
+      "name": "Alpherg",
+      "type": "G",
+      "radius": 26.48,
+      "coordinates": [350, -46.43, 137.01]
+    },
+    {
+      "name": "Alrakis",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [89, 37.02, 82.30]
+    },
+    {
+      "name": "Alrescha",
+      "type": "A",
+      "radius": 2.45,
+      "coordinates": [151, -55.60, 155.35]
+    },
+    {
+      "name": "Alruba",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [457, 31.36, 81.49]
+    },
+    {
+      "name": "Alsafi",
+      "type": "K",
+      "radius": 0.776,
+      "coordinates": [18.799, 21.88, 101.30]
+    },
+    {
+      "name": "Alsciaukat",
+      "type": "K",
+      "radius": 53.27,
+      "coordinates": [380, 34.34, 177.39]
+    },
+    {
+      "name": "Alsephina",
+      "type": "A",
+      "radius": 2.79,
+      "coordinates": [80.6, -7.37, 272.08]
+    },
+    {
+      "name": "Alshain",
+      "type": "G",
+      "radius": 3.064,
+      "coordinates": [44.7, -11.09, 46.13]
+    },
+    {
+      "name": "Alshat",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [253, -25.48, 31.17]
+    },
+    {
+      "name": "Altair",
+      "type": "A",
+      "radius": 1.57,
+      "coordinates": [16.73, -8.91, 47.74]
+    },
+    {
+      "name": "Altais",
+      "type": "G",
+      "radius": 11,
+      "coordinates": [97.4, 22.99, 98.66]
+    },
+    {
+      "name": "Alterf",
+      "type": "K",
+      "radius": 45,
+      "coordinates": [329, 44.86, 206.69]
+    },
+    {
+      "name": "Aludra",
+      "type": "B",
+      "radius": 54,
+      "coordinates": [2000, -6.49, 242.62]
+    },
+    {
+      "name": "Alula Australis",
+      "type": "F",
+      "radius": 1.02,
+      "coordinates": [29, 69.25, 195.11]
+    },
+    {
+      "name": "Alula Borealis",
+      "type": "K",
+      "radius": 57.07,
+      "coordinates": [399, 69.08, 190.73]
+    },
+    {
+      "name": "Alya",
+      "type": "A",
+      "radius": 0.987,
+      "coordinates": [150, 0.85, 37.22]
+    },
+    {
+      "name": "Alzirr",
+      "type": "F",
+      "radius": 2.71,
+      "coordinates": [58.7, 4.50, 200.74]
+    },
+    {
+      "name": "Amadioha",
+      "type": "G",
+      "radius": 0.96,
+      "coordinates": [203.6, -20.74, 236.81]
+    },
+    {
+      "name": "Amansinaya",
+      "type": "G",
+      "radius": 0.93,
+      "coordinates": [432, 32.53, 272.92]
+    },
+    {
+      "name": "Anadolu",
+      "type": "K",
+      "radius": 0.79,
+      "coordinates": [570, -47.04, 86.19]
+    },
+    {
+      "name": "Ancha",
+      "type": "G",
+      "radius": 12,
+      "coordinates": [187, -48.62, 53.51]
+    },
+    {
+      "name": "Angetenar",
+      "type": "K",
+      "radius": 8.12,
+      "coordinates": [187, -62.09, 206.80]
+    },
+    {
+      "name": "Aniara",
+      "type": "K",
+      "radius": 4.2,
+      "coordinates": [411.82, 57.70, 137.97]
+    },
+    {
+      "name": "Ankaa",
+      "type": "K",
+      "radius": 15,
+      "coordinates": [82, -73.98, 320.00]
+    },
+    {
+      "name": "Anser",
+      "type": "M",
+      "radius": 43.14,
+      "coordinates": [291, 3.40, 58.99]
+    },
+    {
+      "name": "Antares",
+      "type": "M",
+      "radius": 680,
+      "coordinates": [550, 15.06, 351.95]
+    },
+    {
+      "name": "Arcalís",
+      "type": "K",
+      "radius": 4.3,
+      "coordinates": [432, 60.59, 21.81]
+    },
+    {
+      "name": "Arcturus",
+      "type": "K",
+      "radius": 25.4,
+      "coordinates": [36.7, 69.11, 15.05]
+    },
+    {
+      "name": "Arkab Posterior",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [134, -24.12, 353.28]
+    },
+    {
+      "name": "Arkab Prior",
+      "type": "B",
+      "radius": 2.73,
+      "coordinates": [310, -23.93, 353.61]
+    },
+    {
+      "name": "Arneb",
+      "type": "F",
+      "radius": 75,
+      "coordinates": [2200, -25.14, 220.95]
+    },
+    {
+      "name": "Ascella",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [88, -15.35, 6.84]
+    },
+    {
+      "name": "Asellus Australis",
+      "type": "K",
+      "radius": 11,
+      "coordinates": [131, 32.90, 208.03]
+    },
+    {
+      "name": "Asellus Borealis",
+      "type": "A",
+      "radius": 2.5,
+      "coordinates": [181, 33.73, 204.17]
+    },
+    {
+      "name": "Ashlesha",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [129, 28.52, 220.72]
+    },
+    {
+      "name": "Aspidiske",
+      "type": "A",
+      "radius": 43,
+      "coordinates": [690, -7.01, 278.46]
+    },
+    {
+      "name": "Asterope",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [440, -23.36, 166.05]
+    },
+    {
+      "name": "Atakoraka",
+      "type": "G",
+      "radius": 1.036,
+      "coordinates": [1220, -15.67, 242.23]
+    },
+    {
+      "name": "Athebyne",
+      "type": "G",
+      "radius": 11,
+      "coordinates": [92.1, 40.95, 92.58]
+    },
+    {
+      "name": "Atik",
+      "type": "B",
+      "radius": 9.6,
+      "coordinates": [1100, -17.74, 160.36]
+    },
+    {
+      "name": "Atlas",
+      "type": "B",
+      "radius": 2,
+      "coordinates": [431, -23.23, 167.01]
+    },
+    {
+      "name": "Atria",
+      "type": "K",
+      "radius": 1,
+      "coordinates": [391, -15.26, 321.54]
+    },
+    {
+      "name": "Avior",
+      "type": "K",
+      "radius": 1,
+      "coordinates": [610, -12.60, 274.29]
+    },
+    {
+      "name": "Axólotl",
+      "type": "G",
+      "radius": 1.82,
+      "coordinates": [306, -77.40, 52.02]
+    },
+    {
+      "name": "Ayeyarwady",
+      "type": "G",
+      "radius": 4.374,
+      "coordinates": [441.36, -60.00, 207.80]
+    },
+    {
+      "name": "Azelfafage",
+      "type": "B",
+      "radius": 5.6,
+      "coordinates": [1700, -1.30, 95.48]
+    },
+    {
+      "name": "Azha",
+      "type": "K",
+      "radius": 10.48,
+      "coordinates": [137, -55.31, 187.16]
+    },
+    {
+      "name": "Azmidi",
+      "type": "G",
+      "radius": 1,
+      "coordinates": [1200, 0.57, 241.46]
+    },
+    {
+      "name": "Baekdu",
+      "type": "K",
+      "radius": 9.9,
+      "coordinates": [287.36, 39.66, 112.80]
+    },
+    {
+      "name": "Barnard's Star",
+      "type": "M",
+      "radius": 0.196,
+      "coordinates": [5.9629, 14.05, 30.99]
+    },
+    {
+      "name": "Baten Kaitos",
+      "type": "K",
+      "radius": 25,
+      "coordinates": [235, -68.05, 165.88]
+    },
+    {
+      "name": "Beemim",
+      "type": "K",
+      "radius": 54,
+      "coordinates": [296, -44.23, 235.17]
+    },
+    {
+      "name": "Beid",
+      "type": "F",
+      "radius": 3.7,
+      "coordinates": [122, -38.39, 199.32]
+    },
+    {
+      "name": "Belel",
+      "type": "K",
+      "radius": 4.55,
+      "coordinates": [394, -16.73, 14.51]
+    },
+    {
+      "name": "Bellatrix",
+      "type": "B",
+      "radius": 5.75,
+      "coordinates": [250, -15.95, 196.93]
+    },
+    {
+      "name": "Berehynia",
+      "type": "G",
+      "radius": 1.08,
+      "coordinates": [631, -6.89, 161.56]
+    },
+    {
+      "name": "Betelgeuse",
+      "type": "M",
+      "radius": 764,
+      "coordinates": [548, -8.96, 199.79]
+    },
+    {
+      "name": "Bharani",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [166, -28.61, 152.98]
+    },
+    {
+      "name": "Bibhā",
+      "type": "G",
+      "radius": 1.46,
+      "coordinates": [340, 37.61, 242.20]
+    },
+    {
+      "name": "Biham",
+      "type": "A",
+      "radius": 2.6225,
+      "coordinates": [92, -38.72, 67.42]
+    },
+    {
+      "name": "Bosona",
+      "type": "K",
+      "radius": 4.826,
+      "coordinates": [632.1, -41.35, 47.88]
+    },
+    {
+      "name": "Botein",
+      "type": "K",
+      "radius": 10.42,
+      "coordinates": [170, -32.14, 162.60]
+    },
+    {
+      "name": "Brachium",
+      "type": "M",
+      "radius": 108,
+      "coordinates": [288, 28.62, 337.22]
+    },
+    {
+      "name": "Bubup",
+      "type": "F",
+      "radius": 1.49,
+      "coordinates": [124.3, -31.15, 284.82]
+    },
+    {
+      "name": "Buna",
+      "type": "F",
+      "radius": 1.66,
+      "coordinates": [195.6, -16.64, 143.08]
+    },
+    {
+      "name": "Bunda",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [179, -40.35, 46.45]
+    },
+    {
+      "name": "Bélénos",
+      "type": "F",
+      "radius": 1.39,
+      "coordinates": [146.4, -33.72, 131.85]
+    },
+    {
+      "name": "Canopus",
+      "type": "A",
+      "radius": 71,
+      "coordinates": [310, -25.29, 261.21]
+    },
+    {
+      "name": "Capella",
+      "type": "G",
+      "radius": 11.98,
+      "coordinates": [42.919, 4.57, 162.59]
+    },
+    {
+      "name": "Caph",
+      "type": "F",
+      "radius": 3.43,
+      "coordinates": [54.7, -3.28, 117.53]
+    },
+    {
+      "name": "Castor",
+      "type": "A",
+      "radius": 2.4,
+      "coordinates": [51, 22.48, 187.44]
+    },
+    {
+      "name": "Castula",
+      "type": "G",
+      "radius": 10.44,
+      "coordinates": [189, -3.68, 123.60]
+    },
+    {
+      "name": "Cebalrai",
+      "type": "K",
+      "radius": 12.42,
+      "coordinates": [81.8, 17.19, 29.21]
+    },
+    {
+      "name": "Ceibo",
+      "type": "K",
+      "radius": 0.72,
+      "coordinates": [122.83, -24.14, 290.35]
+    },
+    {
+      "name": "Celaeno",
+      "type": "B",
+      "radius": 4.4,
+      "coordinates": [430, -23.73, 166.04]
+    },
+    {
+      "name": "Cervantes",
+      "type": "G",
+      "radius": 1.36,
+      "coordinates": [50.89, -11.50, 340.06]
+    },
+    {
+      "name": "Chalawan",
+      "type": "G",
+      "radius": 1.172,
+      "coordinates": [45.9, 63.37, 175.78]
+    },
+    {
+      "name": "Chamukuy",
+      "type": "G",
+      "radius": 4.4,
+      "coordinates": [152, -22.01, 180.35]
+    },
+    {
+      "name": "Chaophraya",
+      "type": "G",
+      "radius": 0.843,
+      "coordinates": [606, -56.79, 189.68]
+    },
+    {
+      "name": "Chara",
+      "type": "G",
+      "radius": 1.123,
+      "coordinates": [27.63, 75.31, 136.13]
+    },
+    {
+      "name": "Chasoň",
+      "type": "G",
+      "radius": 1.167,
+      "coordinates": [1010, 22.15, 63.94]
+    },
+    {
+      "name": "Chechia",
+      "type": "G",
+      "radius": 4.41,
+      "coordinates": [234.9, -16.49, 47.13]
+    },
+    {
+      "name": "Chertan",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [165, 64.58, 235.37]
+    },
+    {
+      "name": "Citadelle",
+      "type": "K",
+      "radius": 4.109,
+      "coordinates": [519.37, -48.08, 111.22]
+    },
+    {
+      "name": "Citalá",
+      "type": "G",
+      "radius": 1.27,
+      "coordinates": [97.9, -0.48, 218.72]
+    },
+    {
+      "name": "Cocibolca",
+      "type": "G",
+      "radius": 0.846,
+      "coordinates": [111.6, -88.32, 53.97]
+    },
+    {
+      "name": "Copernicus",
+      "type": "K",
+      "radius": 0.943,
+      "coordinates": [41.05, 37.70, 196.79]
+    },
+    {
+      "name": "Cor Caroli",
+      "type": "A",
+      "radius": 2.49,
+      "coordinates": [100, 78.77, 118.31]
+    },
+    {
+      "name": "Cujam",
+      "type": "A",
+      "radius": 3.3,
+      "coordinates": [250, 38.63, 29.46]
+    },
+    {
+      "name": "Cursa",
+      "type": "A",
+      "radius": 2.4,
+      "coordinates": [90, -25.32, 205.34]
+    },
+    {
+      "name": "Dabih",
+      "type": "K",
+      "radius": 1,
+      "coordinates": [390, -26.37, 29.15]
+    },
+    {
+      "name": "Dalim",
+      "type": "F",
+      "radius": 2.04,
+      "coordinates": [45.66, -59.03, 224.73]
+    },
+    {
+      "name": "Deneb",
+      "type": "A",
+      "radius": 203,
+      "coordinates": [2615, 2.00, 84.28]
+    },
+    {
+      "name": "Deneb Algedi",
+      "type": "A",
+      "radius": 1.91,
+      "coordinates": [38.7, -46.01, 37.60]
+    },
+    {
+      "name": "Denebola",
+      "type": "A",
+      "radius": 1.728,
+      "coordinates": [35.9, 70.80, 250.64]
+    },
+    {
+      "name": "Diadem",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [58.1, 79.49, 327.93]
+    },
+    {
+      "name": "Dingolay",
+      "type": "G",
+      "radius": 3.539,
+      "coordinates": [515.27, 50.76, 257.78]
+    },
+    {
+      "name": "Diphda",
+      "type": "K",
+      "radius": 16.78,
+      "coordinates": [96.3, -80.68, 111.33]
+    },
+    {
+      "name": "Diya",
+      "type": "F",
+      "radius": 1.98,
+      "coordinates": [1440, -65.15, 226.66]
+    },
+    {
+      "name": "Dofida",
+      "type": "G",
+      "radius": 1.17,
+      "coordinates": [124, 15.03, 310.11]
+    },
+    {
+      "name": "Dombay",
+      "type": "K",
+      "radius": 0.85,
+      "coordinates": [441, 66.69, 100.17]
+    },
+    {
+      "name": "Dschubba",
+      "type": "B",
+      "radius": 6.7,
+      "coordinates": [443.57, 22.49, 350.10]
+    },
+    {
+      "name": "Dubhe",
+      "type": "K",
+      "radius": 17.03,
+      "coordinates": [123, 51.01, 142.85]
+    },
+    {
+      "name": "Dziban",
+      "type": "F",
+      "radius": 1.2,
+      "coordinates": [74.5, 31.03, 102.97]
+    },
+    {
+      "name": "Dìwö",
+      "type": "F",
+      "radius": 1.38,
+      "coordinates": [1340, 18.67, 345.96]
+    },
+    {
+      "name": "Ebla",
+      "type": "K",
+      "radius": 0.86,
+      "coordinates": [94.1, -55.11, 74.01]
+    },
+    {
+      "name": "Edasich",
+      "type": "K",
+      "radius": 11.99,
+      "coordinates": [101.2, 48.63, 93.97]
+    },
+    {
+      "name": "Electra",
+      "type": "B",
+      "radius": 6.06,
+      "coordinates": [400, -23.85, 166.18]
+    },
+    {
+      "name": "Elgafar",
+      "type": "G",
+      "radius": 4,
+      "coordinates": [118, 52.51, 345.22]
+    },
+    {
+      "name": "Elkurud",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [720, -24.26, 243.94]
+    },
+    {
+      "name": "Elnath",
+      "type": "B",
+      "radius": 4.2,
+      "coordinates": [134, -3.75, 177.99]
+    },
+    {
+      "name": "Eltanin",
+      "type": "K",
+      "radius": 48.15,
+      "coordinates": [154.3, 29.22, 79.05]
+    },
+    {
+      "name": "Emiw",
+      "type": "K",
+      "radius": 0.98,
+      "coordinates": [118, -50.82, 299.84]
+    },
+    {
+      "name": "Enif",
+      "type": "K",
+      "radius": 211,
+      "coordinates": [690, -31.46, 65.57]
+    },
+    {
+      "name": "Errai",
+      "type": "K",
+      "radius": 4.93,
+      "coordinates": [44.98, 15.32, 118.99]
+    },
+    {
+      "name": "Fafnir",
+      "type": "K",
+      "radius": 21.76,
+      "coordinates": [315, 27.13, 95.42]
+    },
+    {
+      "name": "Fang",
+      "type": "B",
+      "radius": 5,
+      "coordinates": [590, 20.23, 347.21]
+    },
+    {
+      "name": "Fawaris",
+      "type": "A",
+      "radius": 5.13,
+      "coordinates": [165, 10.24, 78.71]
+    },
+    {
+      "name": "Felis",
+      "type": "K",
+      "radius": 56.7,
+      "coordinates": [570, 27.09, 255.24]
+    },
+    {
+      "name": "Felixvarela",
+      "type": "K",
+      "radius": 0.7,
+      "coordinates": [112.58, -77.88, 95.84]
+    },
+    {
+      "name": "Flegetonte",
+      "type": "K",
+      "radius": 0.84,
+      "coordinates": [95.8, 61.05, 267.22]
+    },
+    {
+      "name": "Fomalhaut",
+      "type": "A",
+      "radius": 1.842,
+      "coordinates": [25.13, -64.91, 20.49]
+    },
+    {
+      "name": "Formosa",
+      "type": "G",
+      "radius": 8.8,
+      "coordinates": [449, 71.32, 229.80]
+    },
+    {
+      "name": "Franz",
+      "type": "F",
+      "radius": 1.468,
+      "coordinates": [668.64, 33.54, 62.59]
+    },
+    {
+      "name": "Fulu",
+      "type": "B",
+      "radius": 5.9,
+      "coordinates": [590, -8.91, 120.78]
+    },
+    {
+      "name": "Fumalsamakah",
+      "type": "B",
+      "radius": 3.6,
+      "coordinates": [410, -49.61, 78.79]
+    },
+    {
+      "name": "Funi",
+      "type": "G",
+      "radius": 1.087,
+      "coordinates": [215.43, 42.57, 124.68]
+    },
+    {
+      "name": "Furud",
+      "type": "B",
+      "radius": 3.9,
+      "coordinates": [362, -19.43, 237.52]
+    },
+    {
+      "name": "Fuyue",
+      "type": "K",
+      "radius": 20,
+      "coordinates": [125.8, -4.94, 353.50]
+    },
+    {
+      "name": "Gacrux",
+      "type": "M",
+      "radius": 120,
+      "coordinates": [88.6, 5.65, 300.17]
+    },
+    {
+      "name": "Gakyid",
+      "type": "G",
+      "radius": 2.39,
+      "coordinates": [272, 29.70, 213.05]
+    },
+    {
+      "name": "Geminga",
+      "type": "Pulsar",
+      "radius": 1,
+      "coordinates": [815, 4.27, 195.13]
+    },
+    {
+      "name": "Giausar",
+      "type": "M",
+      "radius": 71,
+      "coordinates": [333, 46.20, 132.98]
+    },
+    {
+      "name": "Gienah",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [154, 44.50, 290.98]
+    },
+    {
+      "name": "Ginan",
+      "type": "K",
+      "radius": 28.41,
+      "coordinates": [230, 2.25, 299.22]
+    },
+    {
+      "name": "Gloas",
+      "type": "G",
+      "radius": 1.58,
+      "coordinates": [750, 44.54, 190.93]
+    },
+    {
+      "name": "Gomeisa",
+      "type": "B",
+      "radius": 3.5,
+      "coordinates": [160, 11.68, 209.52]
+    },
+    {
+      "name": "Grumium",
+      "type": "K",
+      "radius": 12,
+      "coordinates": [112.5, 30.23, 85.17]
+    },
+    {
+      "name": "Gudja",
+      "type": "M",
+      "radius": 51.3,
+      "coordinates": [380, 48.33, 30.10]
+    },
+    {
+      "name": "Gumala",
+      "type": "F",
+      "radius": 1.2,
+      "coordinates": [90, -15.79, 13.46]
+    },
+    {
+      "name": "Guniibuu",
+      "type": "K",
+      "radius": 0.817,
+      "coordinates": [19.41, 6.88, 358.28]
+    },
+    {
+      "name": "Hadar",
+      "type": "B",
+      "radius": 9,
+      "coordinates": [390, 1.25, 311.77]
+    },
+    {
+      "name": "Haedus",
+      "type": "B",
+      "radius": 3.25,
+      "coordinates": [243, 0.27, 165.35]
+    },
+    {
+      "name": "Hamal",
+      "type": "K",
+      "radius": 14.9,
+      "coordinates": [65.8, -36.21, 144.58]
+    },
+    {
+      "name": "Hassaleh",
+      "type": "K",
+      "radius": 127,
+      "coordinates": [490, -6.16, 170.59]
+    },
+    {
+      "name": "Hatysa",
+      "type": "O",
+      "radius": 8.3,
+      "coordinates": [1343.76, -19.58, 209.52]
+    },
+    {
+      "name": "Helvetios",
+      "type": "G",
+      "radius": 1.237,
+      "coordinates": [50.64, -34.73, 90.06]
+    },
+    {
+      "name": "Heze",
+      "type": "A",
+      "radius": 2.079,
+      "coordinates": [74.1, 60.39, 325.25]
+    },
+    {
+      "name": "Hoggar",
+      "type": "G",
+      "radius": 4.716,
+      "coordinates": [739.6, -28.20, 190.82]
+    },
+    {
+      "name": "Homam",
+      "type": "B",
+      "radius": 4.03,
+      "coordinates": [204, -40.66, 78.86]
+    },
+    {
+      "name": "Horna",
+      "type": "G",
+      "radius": 0.923,
+      "coordinates": [812.14, -26.87, 144.23]
+    },
+    {
+      "name": "Hunahpú",
+      "type": "K",
+      "radius": 4.6,
+      "coordinates": [372, 34.12, 276.92]
+    },
+    {
+      "name": "Hunor",
+      "type": "F",
+      "radius": 1.412,
+      "coordinates": [418, 45.23, 65.02]
+    },
+    {
+      "name": "Iklil",
+      "type": "B",
+      "radius": 5,
+      "coordinates": [470, 18.27, 344.63]
+    },
+    {
+      "name": "Illyrian",
+      "type": "G",
+      "radius": 5.26,
+      "coordinates": [416, 47.77, 190.03]
+    },
+    {
+      "name": "Imai",
+      "type": "B",
+      "radius": 8,
+      "coordinates": [345, 3.79, 298.23]
+    },
+    {
+      "name": "Inquill",
+      "type": "G",
+      "radius": 2.15,
+      "coordinates": [185.8, -6.46, 340.79]
+    },
+    {
+      "name": "Intan",
+      "type": "K",
+      "radius": 0.73,
+      "coordinates": [155.9, -57.33, 233.84]
+    },
+    {
+      "name": "Intercrus",
+      "type": "K",
+      "radius": 11,
+      "coordinates": [280, 46.07, 174.23]
+    },
+    {
+      "name": "Irena",
+      "type": "F",
+      "radius": 1.331,
+      "coordinates": [446, 39.03, 23.53]
+    },
+    {
+      "name": "Itonda",
+      "type": "G",
+      "radius": 1,
+      "coordinates": [147.4, -52.13, 5.41]
+    },
+    {
+      "name": "Izar",
+      "type": "K",
+      "radius": 33,
+      "coordinates": [236, 64.78, 39.38]
+    },
+    {
+      "name": "Jabbah",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [470, 22.70, 354.61]
+    },
+    {
+      "name": "Jishui",
+      "type": "F",
+      "radius": 3.7,
+      "coordinates": [166, 24.22, 184.97]
+    },
+    {
+      "name": "Kaffaljidhma",
+      "type": "A",
+      "radius": 1.9,
+      "coordinates": [80, -49.38, 168.92]
+    },
+    {
+      "name": "Kalausi",
+      "type": "K",
+      "radius": 0.94,
+      "coordinates": [133.6, 6.68, 269.60]
+    },
+    {
+      "name": "Kamuy",
+      "type": "K",
+      "radius": 10.49,
+      "coordinates": [443, 46.03, 44.30]
+    },
+    {
+      "name": "Kang",
+      "type": "K",
+      "radius": 25.41,
+      "coordinates": [255, 47.70, 333.52]
+    },
+    {
+      "name": "Karaka",
+      "type": "K",
+      "radius": 0.86,
+      "coordinates": [132.2, -19.58, 309.74]
+    },
+    {
+      "name": "Kaus Australis",
+      "type": "B",
+      "radius": 6.8,
+      "coordinates": [143, -9.81, 359.19]
+    },
+    {
+      "name": "Kaus Borealis",
+      "type": "K",
+      "radius": 11.234,
+      "coordinates": [78.2, -6.52, 7.66]
+    },
+    {
+      "name": "Kaus Media",
+      "type": "K",
+      "radius": 16,
+      "coordinates": [348, -7.15, 3.00]
+    },
+    {
+      "name": "Kaveh",
+      "type": "G",
+      "radius": 4.07,
+      "coordinates": [424, 1.00, 37.21]
+    },
+    {
+      "name": "Keid",
+      "type": "K",
+      "radius": 0.81,
+      "coordinates": [16.34, -38.05, 200.75]
+    },
+    {
+      "name": "Khambalia",
+      "type": "A",
+      "radius": 2.35,
+      "coordinates": [173.4, 44.25, 333.40]
+    },
+    {
+      "name": "Kitalpha",
+      "type": "G",
+      "radius": 9.2,
+      "coordinates": [190, -28.71, 56.38]
+    },
+    {
+      "name": "Kochab",
+      "type": "K",
+      "radius": 42.06,
+      "coordinates": [130.9, 40.50, 112.65]
+    },
+    {
+      "name": "Koeia",
+      "type": "K",
+      "radius": 0.63,
+      "coordinates": [76.28, -63.65, 210.54]
+    },
+    {
+      "name": "Koit",
+      "type": "F",
+      "radius": 1.56,
+      "coordinates": [896, 26.69, 158.64]
+    },
+    {
+      "name": "Kornephoros",
+      "type": "G",
+      "radius": 17,
+      "coordinates": [139, 40.21, 39.01]
+    },
+    {
+      "name": "Kraz",
+      "type": "G",
+      "radius": 16,
+      "coordinates": [146, 39.31, 297.87]
+    },
+    {
+      "name": "Kurhah",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [86, 7.37, 106.16]
+    },
+    {
+      "name": "La Superba",
+      "type": "C",
+      "radius": 422,
+      "coordinates": [1010, 71.65, 126.45]
+    },
+    {
+      "name": "Larawag",
+      "type": "K",
+      "radius": 12.6,
+      "coordinates": [63.7, 6.56, 348.81]
+    },
+    {
+      "name": "Lerna",
+      "type": "F",
+      "radius": 1.528,
+      "coordinates": [1457.97, 31.58, 223.00]
+    },
+    {
+      "name": "Lesath",
+      "type": "B",
+      "radius": 6.1,
+      "coordinates": [580, -1.84, 351.27]
+    },
+    {
+      "name": "Libertas",
+      "type": "G",
+      "radius": 10.45,
+      "coordinates": [184, -9.85, 47.81]
+    },
+    {
+      "name": "Lich",
+      "type": "Pulsar",
+      "radius": 0.000015,
+      "coordinates": [2300, 75.41, 311.30]
+    },
+    {
+      "name": "Liesma",
+      "type": "K",
+      "radius": 2,
+      "coordinates": [301.7, 62.26, 109.34]
+    },
+    {
+      "name": "Lilii Borea",
+      "type": "K",
+      "radius": 11.1,
+      "coordinates": [172, -27.10, 151.42]
+    },
+    {
+      "name": "Lionrock",
+      "type": "G",
+      "radius": 5.27,
+      "coordinates": [364, -55.29, 41.79]
+    },
+    {
+      "name": "Lucilinburhuc",
+      "type": "G",
+      "radius": 1.24,
+      "coordinates": [153.1, 12.61, 175.39]
+    },
+    {
+      "name": "Lusitânia",
+      "type": "G",
+      "radius": 0.91,
+      "coordinates": [113.8, 0.11, 200.68]
+    },
+    {
+      "name": "Maasym",
+      "type": "K",
+      "radius": 40,
+      "coordinates": [393, 28.44, 49.48]
+    },
+    {
+      "name": "Macondo",
+      "type": "K",
+      "radius": 0.844,
+      "coordinates": [93.1, 22.22, 274.65]
+    },
+    {
+      "name": "Mago",
+      "type": "K",
+      "radius": 10.8,
+      "coordinates": [399.7, 17.12, 142.12]
+    },
+    {
+      "name": "Mahasim",
+      "type": "A",
+      "radius": 4.68,
+      "coordinates": [166, 6.73, 174.34]
+    },
+    {
+      "name": "Mahsati",
+      "type": "K",
+      "radius": 4.443,
+      "coordinates": [605.13, 31.49, 30.61]
+    },
+    {
+      "name": "Maia",
+      "type": "B",
+      "radius": 3.59,
+      "coordinates": [380, -23.51, 166.17]
+    },
+    {
+      "name": "Malmok",
+      "type": "G",
+      "radius": 0.9,
+      "coordinates": [702, 51.37, 344.40]
+    },
+    {
+      "name": "Marfik",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [173, 31.84, 17.12]
+    },
+    {
+      "name": "Markab",
+      "type": "A",
+      "radius": 4.62,
+      "coordinates": [133, -40.38, 88.28]
+    },
+    {
+      "name": "Markeb",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [570, -3.54, 275.88]
+    },
+    {
+      "name": "Marsic",
+      "type": "G",
+      "radius": 16,
+      "coordinates": [381, 43.64, 31.02]
+    },
+    {
+      "name": "Matar",
+      "type": "G",
+      "radius": 24.51,
+      "coordinates": [196, -24.95, 92.50]
+    },
+    {
+      "name": "Mazaalai",
+      "type": "G",
+      "radius": 1.105,
+      "coordinates": [910, 67.46, 169.33]
+    },
+    {
+      "name": "Mebsuta",
+      "type": "G",
+      "radius": 140,
+      "coordinates": [840, 9.63, 189.54]
+    },
+    {
+      "name": "Megrez",
+      "type": "A",
+      "radius": 1.4,
+      "coordinates": [80.5, 59.42, 132.57]
+    },
+    {
+      "name": "Meissa",
+      "type": "O",
+      "radius": 13.4,
+      "coordinates": [1300, -12.00, 195.05]
+    },
+    {
+      "name": "Mekbuda",
+      "type": "F",
+      "radius": 65.24,
+      "coordinates": [1120, 11.90, 195.75]
+    },
+    {
+      "name": "Meleph",
+      "type": "A",
+      "radius": 4.8,
+      "coordinates": [606, 32.45, 206.06]
+    },
+    {
+      "name": "Menkalinan",
+      "type": "A",
+      "radius": 2.77,
+      "coordinates": [81.1, 10.41, 167.46]
+    },
+    {
+      "name": "Menkar",
+      "type": "M",
+      "radius": 89,
+      "coordinates": [249, -45.60, 173.32]
+    },
+    {
+      "name": "Menkent",
+      "type": "K",
+      "radius": 10.6,
+      "coordinates": [58.8, 24.08, 319.45]
+    },
+    {
+      "name": "Menkib",
+      "type": "O",
+      "radius": 14,
+      "coordinates": [1200, -13.11, 160.37]
+    },
+    {
+      "name": "Merak",
+      "type": "A",
+      "radius": 3.021,
+      "coordinates": [79.7, 54.80, 149.17]
+    },
+    {
+      "name": "Merga",
+      "type": "F",
+      "radius": 2.51,
+      "coordinates": [157.4, 59.97, 79.98]
+    },
+    {
+      "name": "Meridiana",
+      "type": "A",
+      "radius": 2.21,
+      "coordinates": [125, -19.59, 359.54]
+    },
+    {
+      "name": "Merope",
+      "type": "B",
+      "radius": 7.7,
+      "coordinates": [460, -23.75, 166.57]
+    },
+    {
+      "name": "Mesarthim",
+      "type": "A",
+      "radius": 2.014,
+      "coordinates": [164, -41.20, 142.55]
+    },
+    {
+      "name": "Miaplacidus",
+      "type": "A",
+      "radius": 6.8,
+      "coordinates": [113.2, -14.41, 285.98]
+    },
+    {
+      "name": "Mimosa",
+      "type": "B",
+      "radius": 8.4,
+      "coordinates": [280, 3.18, 302.46]
+    },
+    {
+      "name": "Minchir",
+      "type": "K",
+      "radius": 27.6,
+      "coordinates": [370, 25.31, 222.71]
+    },
+    {
+      "name": "Minelauva",
+      "type": "M",
+      "radius": 48,
+      "coordinates": [198, 66.25, 305.51]
+    },
+    {
+      "name": "Mintaka",
+      "type": "O",
+      "radius": 16.5,
+      "coordinates": [1200, -17.74, 203.86]
+    },
+    {
+      "name": "Mira",
+      "type": "M",
+      "radius": 332,
+      "coordinates": [300, -57.98, 167.75]
+    },
+    {
+      "name": "Mirach",
+      "type": "M",
+      "radius": 100,
+      "coordinates": [197, -27.10, 127.11]
+    },
+    {
+      "name": "Miram",
+      "type": "K",
+      "radius": 134,
+      "coordinates": [780, -3.18, 139.14]
+    },
+    {
+      "name": "Mirfak",
+      "type": "F",
+      "radius": 68,
+      "coordinates": [510, -5.86, 146.57]
+    },
+    {
+      "name": "Mirzam",
+      "type": "B",
+      "radius": 9.7,
+      "coordinates": [490, -14.27, 226.06]
+    },
+    {
+      "name": "Misam",
+      "type": "G",
+      "radius": 9,
+      "coordinates": [112.7, -11.43, 147.12]
+    },
+    {
+      "name": "Mizar",
+      "type": "A",
+      "radius": 2.4,
+      "coordinates": [82.9, 61.58, 113.11]
+    },
+    {
+      "name": "Moldoveanu",
+      "type": "G",
+      "radius": 0.94,
+      "coordinates": [536, 48.02, 45.85]
+    },
+    {
+      "name": "Montuno",
+      "type": "F",
+      "radius": 1.53,
+      "coordinates": [810, -43.44, 230.54]
+    },
+    {
+      "name": "Morava",
+      "type": "F",
+      "radius": 1.401,
+      "coordinates": [1420, -29.70, 106.98]
+    },
+    {
+      "name": "Moriah",
+      "type": "G",
+      "radius": 1.203,
+      "coordinates": [1200, -11.83, 58.94]
+    },
+    {
+      "name": "Mothallah",
+      "type": "F",
+      "radius": 3.22,
+      "coordinates": [63.3, -31.41, 138.64]
+    },
+    {
+      "name": "Mouhoun",
+      "type": "K",
+      "radius": 4.071,
+      "coordinates": [385.08, -36.65, 224.27]
+    },
+    {
+      "name": "Mpingo",
+      "type": "F",
+      "radius": 2.17,
+      "coordinates": [1200, -57.96, 155.09]
+    },
+    {
+      "name": "Muliphein",
+      "type": "B",
+      "radius": 5.6,
+      "coordinates": [440, -4.41, 228.25]
+    },
+    {
+      "name": "Muphrid",
+      "type": "G",
+      "radius": 2.672,
+      "coordinates": [37.2, 73.03, 5.29]
+    },
+    {
+      "name": "Muscida",
+      "type": "G",
+      "radius": 14,
+      "coordinates": [182, 35.43, 155.98]
+    },
+    {
+      "name": "Musica",
+      "type": "G",
+      "radius": 7.19,
+      "coordinates": [249, -21.97, 58.69]
+    },
+    {
+      "name": "Muspelheim",
+      "type": "G",
+      "radius": 1.229,
+      "coordinates": [1030, -9.11, 135.47]
+    },
+    {
+      "name": "Márohu",
+      "type": "G",
+      "radius": 0.87,
+      "coordinates": [600, -67.20, 38.73]
+    },
+    {
+      "name": "Mönch",
+      "type": "K",
+      "radius": 0.85,
+      "coordinates": [104.1, 50.89, 353.21]
+    },
+    {
+      "name": "Nahn",
+      "type": "G",
+      "radius": 1,
+      "coordinates": [370, 39.65, 205.86]
+    },
+    {
+      "name": "Naledi",
+      "type": "F",
+      "radius": 1.28,
+      "coordinates": [576, -31.03, 273.42]
+    },
+    {
+      "name": "Naos",
+      "type": "O",
+      "radius": 14,
+      "coordinates": [1080, -4.71, 255.98]
+    },
+    {
+      "name": "Nashira",
+      "type": "F",
+      "radius": 2.35,
+      "coordinates": [157, -44.67, 36.00]
+    },
+    {
+      "name": "Natasha",
+      "type": "K",
+      "radius": 0.78,
+      "coordinates": [109.4, 3.19, 275.55]
+    },
+    {
+      "name": "Nekkar",
+      "type": "G",
+      "radius": 21.5,
+      "coordinates": [225, 60.04, 67.62]
+    },
+    {
+      "name": "Nembus",
+      "type": "K",
+      "radius": 21.3,
+      "coordinates": [169, -13.53, 130.81]
+    },
+    {
+      "name": "Nenque",
+      "type": "G",
+      "radius": 1.029,
+      "coordinates": [138.3, -77.34, 291.21]
+    },
+    {
+      "name": "Nervia",
+      "type": "G",
+      "radius": 1.01,
+      "coordinates": [140.6, 17.37, 175.34]
+    },
+    {
+      "name": "Nihal",
+      "type": "G",
+      "radius": 16,
+      "coordinates": [160, -27.20, 223.56]
+    },
+    {
+      "name": "Nikawiy",
+      "type": "G",
+      "radius": 3.335,
+      "coordinates": [320.4, 56.57, 68.49]
+    },
+    {
+      "name": "Nosaxa",
+      "type": "G",
+      "radius": 2.34,
+      "coordinates": [293, -21.78, 257.53]
+    },
+    {
+      "name": "Nunki",
+      "type": "B",
+      "radius": 4.5,
+      "coordinates": [228, -12.44, 9.56]
+    },
+    {
+      "name": "Nusakan",
+      "type": "A",
+      "radius": 2.63,
+      "coordinates": [112, 55.62, 45.59]
+    },
+    {
+      "name": "Nushagak",
+      "type": "G",
+      "radius": 1.5007,
+      "coordinates": [255.3, 10.99, 131.99]
+    },
+    {
+      "name": "Nyamien",
+      "type": "F",
+      "radius": 1.477,
+      "coordinates": [930, 28.77, 318.44]
+    },
+    {
+      "name": "Násti",
+      "type": "G",
+      "radius": 1.08,
+      "coordinates": [198.8, 33.92, 155.26]
+    },
+    {
+      "name": "Ogma",
+      "type": "G",
+      "radius": 1.541,
+      "coordinates": [250, 43.28, 61.30]
+    },
+    {
+      "name": "Okab",
+      "type": "A",
+      "radius": 2.27,
+      "coordinates": [83, 3.25, 46.85]
+    },
+    {
+      "name": "Paikauhale",
+      "type": "B",
+      "radius": 6.5,
+      "coordinates": [470, 12.81, 351.53]
+    },
+    {
+      "name": "Parumleo",
+      "type": "G",
+      "radius": 1.11,
+      "coordinates": [910, -60.40, 104.69]
+    },
+    {
+      "name": "Peacock",
+      "type": "B",
+      "radius": 4.83,
+      "coordinates": [179, -35.19, 340.90]
+    },
+    {
+      "name": "Petra",
+      "type": "K",
+      "radius": 0.586,
+      "coordinates": [162.2, -19.01, 40.52]
+    },
+    {
+      "name": "Phact",
+      "type": "B",
+      "radius": 5.8,
+      "coordinates": [261, -28.86, 238.81]
+    },
+    {
+      "name": "Phecda",
+      "type": "A",
+      "radius": 3.04,
+      "coordinates": [83.2, 61.39, 140.84]
+    },
+    {
+      "name": "Pherkad",
+      "type": "A",
+      "radius": 15,
+      "coordinates": [487, 40.84, 108.46]
+    },
+    {
+      "name": "Phoenicia",
+      "type": "K",
+      "radius": 0.74,
+      "coordinates": [64.08, -18.70, 41.87]
+    },
+    {
+      "name": "Piautos",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [550, 29.59, 199.33]
+    },
+    {
+      "name": "Pincoya",
+      "type": "K",
+      "radius": 0.77,
+      "coordinates": [130.5, -3.12, 2.26]
+    },
+    {
+      "name": "Pipirima",
+      "type": "B",
+      "radius": 7,
+      "coordinates": [474, 3.86, 346.20]
+    },
+    {
+      "name": "Pipoltr",
+      "type": "G",
+      "radius": 0.826,
+      "coordinates": [760, 27.29, 63.34]
+    },
+    {
+      "name": "Pleione",
+      "type": "B",
+      "radius": 3.701,
+      "coordinates": [450, -23.17, 166.96]
+    },
+    {
+      "name": "Poerava",
+      "type": "F",
+      "radius": 1.183,
+      "coordinates": [182.7, -55.90, 321.70]
+    },
+    {
+      "name": "Polaris",
+      "type": "F",
+      "radius": 37.5,
+      "coordinates": [323, 26.46, 123.28]
+    },
+    {
+      "name": "Polaris Australis",
+      "type": "F",
+      "radius": 4.4,
+      "coordinates": [294, -27.71, 303.91]
+    },
+    {
+      "name": "Polis",
+      "type": "B",
+      "radius": 67.9,
+      "coordinates": [3000.64, -1.60, 10.00]
+    },
+    {
+      "name": "Pollux",
+      "type": "K",
+      "radius": 9.06,
+      "coordinates": [33.78, 23.41, 192.23]
+    },
+    {
+      "name": "Porrima",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [38.1, 61.33, 297.83]
+    },
+    {
+      "name": "Praecipua",
+      "type": "K",
+      "radius": 8.22,
+      "coordinates": [94.9, 63.73, 190.01]
+    },
+    {
+      "name": "Prima Hyadum",
+      "type": "G",
+      "radius": 13.4,
+      "coordinates": [154, -23.82, 179.08]
+    },
+    {
+      "name": "Procyon",
+      "type": "F",
+      "radius": 2.048,
+      "coordinates": [11.46, 13.02, 213.70]
+    },
+    {
+      "name": "Propus",
+      "type": "M",
+      "radius": 275,
+      "coordinates": [700, 2.52, 188.85]
+    },
+    {
+      "name": "Ran",
+      "type": "K",
+      "radius": 0.735,
+      "coordinates": [10.475, -48.05, 195.84]
+    },
+    {
+      "name": "Rana",
+      "type": "K",
+      "radius": 2.327,
+      "coordinates": [29.49, -46.00, 198.09]
+    },
+    {
+      "name": "Rapeto",
+      "type": "F",
+      "radius": 1.28,
+      "coordinates": [158.3, -1.23, 343.48]
+    },
+    {
+      "name": "Rasalas",
+      "type": "K",
+      "radius": 14,
+      "coordinates": [124.1, 50.25, 204.05]
+    },
+    {
+      "name": "Rasalgethi",
+      "type": "M",
+      "radius": 284,
+      "coordinates": [360, 27.82, 35.53]
+    },
+    {
+      "name": "Rasalhague",
+      "type": "A",
+      "radius": 2.6,
+      "coordinates": [48.6, 22.57, 35.89]
+    },
+    {
+      "name": "Rastaban",
+      "type": "G",
+      "radius": 40,
+      "coordinates": [380, 33.31, 79.58]
+    },
+    {
+      "name": "Regulus",
+      "type": "B",
+      "radius": 4.35,
+      "coordinates": [79.3, 48.93, 226.43]
+    },
+    {
+      "name": "Revati",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [170, -54.88, 132.57]
+    },
+    {
+      "name": "Rigel",
+      "type": "B",
+      "radius": 78.9,
+      "coordinates": [863, -25.25, 209.24]
+    },
+    {
+      "name": "Rosalíadecastro",
+      "type": "G",
+      "radius": 1.49,
+      "coordinates": [240, 31.48, 17.52]
+    },
+    {
+      "name": "Rotanev",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [101, -15.65, 58.88]
+    },
+    {
+      "name": "Ruchbah",
+      "type": "A",
+      "radius": 3.9,
+      "coordinates": [99.4, -2.35, 127.19]
+    },
+    {
+      "name": "Rukbat",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [182, -23.09, 357.71]
+    },
+    {
+      "name": "Sabik",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [88, 14.01, 6.72]
+    },
+    {
+      "name": "Saclateni",
+      "type": "K",
+      "radius": 102,
+      "coordinates": [620, -0.43, 165.02]
+    },
+    {
+      "name": "Sadachbia",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [164, -45.84, 62.18]
+    },
+    {
+      "name": "Sadalbari",
+      "type": "G",
+      "radius": 9.6,
+      "coordinates": [106.1, -30.56, 90.68]
+    },
+    {
+      "name": "Sadalmelik",
+      "type": "G",
+      "radius": 52.89,
+      "coordinates": [520, -42.07, 59.93]
+    },
+    {
+      "name": "Sadalsuud",
+      "type": "G",
+      "radius": 47.88,
+      "coordinates": [550, -37.88, 48.02]
+    },
+    {
+      "name": "Sadr",
+      "type": "F",
+      "radius": 150,
+      "coordinates": [1800, 1.87, 78.15]
+    },
+    {
+      "name": "Sagarmatha",
+      "type": "G",
+      "radius": 1.033,
+      "coordinates": [161.8, 53.26, 270.29]
+    },
+    {
+      "name": "Saiph",
+      "type": "B",
+      "radius": 22.2,
+      "coordinates": [650, -18.50, 214.51]
+    },
+    {
+      "name": "Salm",
+      "type": "A",
+      "radius": 2.8,
+      "coordinates": [162, -34.61, 97.51]
+    },
+    {
+      "name": "Sansuna",
+      "type": "F",
+      "radius": 1.45,
+      "coordinates": [838.23, -8.76, 58.54]
+    },
+    {
+      "name": "Sargas",
+      "type": "F",
+      "radius": 26.3,
+      "coordinates": [329, -5.98, 347.14]
+    },
+    {
+      "name": "Sarin",
+      "type": "A",
+      "radius": 2.2,
+      "coordinates": [75.1, 31.42, 46.82]
+    },
+    {
+      "name": "Sceptrum",
+      "type": "K",
+      "radius": 9.8,
+      "coordinates": [110, -35.90, 211.32]
+    },
+    {
+      "name": "Scheat",
+      "type": "M",
+      "radius": 95,
+      "coordinates": [196, -29.04, 95.75]
+    },
+    {
+      "name": "Schedar",
+      "type": "K",
+      "radius": 45.39,
+      "coordinates": [228, -6.30, 121.42]
+    },
+    {
+      "name": "Secunda Hyadum",
+      "type": "G",
+      "radius": 11.4,
+      "coordinates": [156, -22.01, 178.02]
+    },
+    {
+      "name": "Segin",
+      "type": "B",
+      "radius": 6.1,
+      "coordinates": [470, 1.65, 129.85]
+    },
+    {
+      "name": "Seginus",
+      "type": "A",
+      "radius": 5.16,
+      "coordinates": [86.8, 66.17, 67.26]
+    },
+    {
+      "name": "Sham",
+      "type": "G",
+      "radius": 21,
+      "coordinates": [382, -2.14, 54.45]
+    },
+    {
+      "name": "Shama",
+      "type": "G",
+      "radius": 0.9,
+      "coordinates": [179, 54.48, 263.24]
+    },
+    {
+      "name": "Sharjah",
+      "type": "M",
+      "radius": 0.54,
+      "coordinates": [47.42, 22.97, 355.20]
+    },
+    {
+      "name": "Shaula",
+      "type": "B",
+      "radius": 8.8,
+      "coordinates": [570, -2.21, 351.74]
+    },
+    {
+      "name": "Sheliak",
+      "type": "B",
+      "radius": 15.2,
+      "coordinates": [960, 14.78, 63.19]
+    },
+    {
+      "name": "Sheratan",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [59.6, -39.68, 142.24]
+    },
+    {
+      "name": "Sika",
+      "type": "G",
+      "radius": 1.39,
+      "coordinates": [196.7, -20.49, 5.52]
+    },
+    {
+      "name": "Sirius",
+      "type": "A",
+      "radius": 1.711,
+      "coordinates": [8.6, -8.89, 227.23]
+    },
+    {
+      "name": "Situla",
+      "type": "K",
+      "radius": 13,
+      "coordinates": [214, -50.75, 62.68]
+    },
+    {
+      "name": "Skat",
+      "type": "A",
+      "radius": 2.4,
+      "coordinates": [113, -60.67, 49.58]
+    },
+    {
+      "name": "Solaris",
+      "type": "K",
+      "radius": 0.78,
+      "coordinates": [161.2, -22.63, 64.42]
+    },
+    {
+      "name": "Spica",
+      "type": "B",
+      "radius": 7.47,
+      "coordinates": [250, 50.84, 316.11]
+    },
+    {
+      "name": "Sterrennacht",
+      "type": "F",
+      "radius": 1.46,
+      "coordinates": [910, -18.44, 108.96]
+    },
+    {
+      "name": "Stribor",
+      "type": "F",
+      "radius": 1.58,
+      "coordinates": [255.1, 38.94, 190.97]
+    },
+    {
+      "name": "Sualocin",
+      "type": "B",
+      "radius": 3.92,
+      "coordinates": [254, -15.32, 60.30]
+    },
+    {
+      "name": "Subra",
+      "type": "F",
+      "radius": 5.9,
+      "coordinates": [135, 42.06, 224.60]
+    },
+    {
+      "name": "Suhail",
+      "type": "K",
+      "radius": 210,
+      "coordinates": [545, 2.82, 265.93]
+    },
+    {
+      "name": "Sulafat",
+      "type": "B",
+      "radius": 15.4,
+      "coordinates": [620, 12.81, 63.32]
+    },
+    {
+      "name": "Syrma",
+      "type": "F",
+      "radius": 2.5,
+      "coordinates": [72.5, 51.06, 337.74]
+    },
+    {
+      "name": "Sāmaya",
+      "type": "F",
+      "radius": 1.59,
+      "coordinates": [302, -48.00, 14.61]
+    },
+    {
+      "name": "Tabit",
+      "type": "F",
+      "radius": 1.323,
+      "coordinates": [26.32, -23.06, 191.45]
+    },
+    {
+      "name": "Taika",
+      "type": "F",
+      "radius": 2.206,
+      "coordinates": [1634.08, -9.86, 97.34]
+    },
+    {
+      "name": "Taiyangshou",
+      "type": "K",
+      "radius": 20.8,
+      "coordinates": [184, 65.72, 150.32]
+    },
+    {
+      "name": "Taiyi",
+      "type": "F",
+      "radius": 1.5,
+      "coordinates": [95.9, 51.68, 122.26]
+    },
+    {
+      "name": "Talitha",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [47.3, 40.84, 171.51]
+    },
+    {
+      "name": "Tangra",
+      "type": "G",
+      "radius": 1.136,
+      "coordinates": [849, -38.26, 91.75]
+    },
+    {
+      "name": "Tania Australis",
+      "type": "M",
+      "radius": 75,
+      "coordinates": [183, 56.36, 177.90]
+    },
+    {
+      "name": "Tania Borealis",
+      "type": "A",
+      "radius": 2.3,
+      "coordinates": [138, 55.08, 175.87]
+    },
+    {
+      "name": "Tapecue",
+      "type": "G",
+      "radius": 0.84,
+      "coordinates": [108, -14.09, 267.20]
+    },
+    {
+      "name": "Tarazed",
+      "type": "K",
+      "radius": 91.81,
+      "coordinates": [395, -7.08, 48.73]
+    },
+    {
+      "name": "Tarf",
+      "type": "K",
+      "radius": 61,
+      "coordinates": [290, 23.05, 214.25]
+    },
+    {
+      "name": "Taygeta",
+      "type": "B",
+      "radius": 1,
+      "coordinates": [440, -23.53, 165.98]
+    },
+    {
+      "name": "Tegmine",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [83.4, 25.53, 205.30]
+    },
+    {
+      "name": "Tejat",
+      "type": "M",
+      "radius": 80,
+      "coordinates": [230, 4.17, 189.73]
+    },
+    {
+      "name": "Terebellum",
+      "type": "G",
+      "radius": 2.87,
+      "coordinates": [76.4, -25.04, 14.87]
+    },
+    {
+      "name": "Tevel",
+      "type": "F",
+      "radius": 1.32,
+      "coordinates": [1500, 21.44, 181.09]
+    },
+    {
+      "name": "Theemin",
+      "type": "G",
+      "radius": 16,
+      "coordinates": [214, -41.31, 231.01]
+    },
+    {
+      "name": "Thuban",
+      "type": "A",
+      "radius": 4.932,
+      "coordinates": [303, 50.96, 110.52]
+    },
+    {
+      "name": "Tiaki",
+      "type": "M",
+      "radius": 180,
+      "coordinates": [177, -57.95, 346.27]
+    },
+    {
+      "name": "Tianguan",
+      "type": "B",
+      "radius": 5.5,
+      "coordinates": [440, -5.64, 185.69]
+    },
+    {
+      "name": "Tianyi",
+      "type": "K",
+      "radius": 67,
+      "coordinates": [780, 50.33, 123.53]
+    },
+    {
+      "name": "Timir",
+      "type": "K",
+      "radius": 3.22,
+      "coordinates": [193, 23.58, 2.42]
+    },
+    {
+      "name": "Tislit",
+      "type": "F",
+      "radius": 1.61,
+      "coordinates": [1130, 14.86, 234.51]
+    },
+    {
+      "name": "Titawin",
+      "type": "F",
+      "radius": 1.48,
+      "coordinates": [44, -20.67, 132.00]
+    },
+    {
+      "name": "Tojil",
+      "type": "G",
+      "radius": 1,
+      "coordinates": [942, -53.92, 216.80]
+    },
+    {
+      "name": "Tonatiuh",
+      "type": "G",
+      "radius": 10.64,
+      "coordinates": [329, 39.92, 126.32]
+    },
+    {
+      "name": "Torcular",
+      "type": "K",
+      "radius": 14.57,
+      "coordinates": [280, -51.43, 144.61]
+    },
+    {
+      "name": "Tuiren",
+      "type": "G",
+      "radius": 1.096,
+      "coordinates": [968, 71.84, 133.41]
+    },
+    {
+      "name": "Tupi",
+      "type": "F",
+      "radius": 1.08,
+      "coordinates": [109.2, -49.65, 264.32]
+    },
+    {
+      "name": "Tupã",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [126, -1.29, 300.13]
+    },
+    {
+      "name": "Tureis",
+      "type": "F",
+      "radius": 3.41,
+      "coordinates": [63.5, 4.40, 243.15]
+    },
+    {
+      "name": "Ukdah",
+      "type": "K",
+      "radius": 33,
+      "coordinates": [263, 35.98, 236.49]
+    },
+    {
+      "name": "Uklun",
+      "type": "G",
+      "radius": 1.27,
+      "coordinates": [129.2, 3.06, 294.36]
+    },
+    {
+      "name": "Unukalhai",
+      "type": "K",
+      "radius": 13.48,
+      "coordinates": [74, 44.08, 14.20]
+    },
+    {
+      "name": "Unurgunite",
+      "type": "K",
+      "radius": 399,
+      "coordinates": [1300, -10.27, 239.17]
+    },
+    {
+      "name": "Uruk",
+      "type": "F",
+      "radius": 1.45,
+      "coordinates": [356, -1.21, 52.18]
+    },
+    {
+      "name": "Vega",
+      "type": "A",
+      "radius": 2.362,
+      "coordinates": [25.04, 19.24, 67.45]
+    },
+    {
+      "name": "Veritate",
+      "type": "K",
+      "radius": 10.49,
+      "coordinates": [247, -21.05, 106.41]
+    },
+    {
+      "name": "Vindemiatrix",
+      "type": "G",
+      "radius": 10.6,
+      "coordinates": [109.6, 73.63, 312.32]
+    },
+    {
+      "name": "Wasat",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [60.5, 15.89, 195.98]
+    },
+    {
+      "name": "Wazn",
+      "type": "K",
+      "radius": 11.5,
+      "coordinates": [87.2, -27.06, 241.34]
+    },
+    {
+      "name": "Wezen",
+      "type": "F",
+      "radius": 215,
+      "coordinates": [1600, -8.27, 238.42]
+    },
+    {
+      "name": "Wurren",
+      "type": "B",
+      "radius": 2.835,
+      "coordinates": [300, -61.71, 297.83]
+    },
+    {
+      "name": "Xamidimura",
+      "type": "B",
+      "radius": 3.9,
+      "coordinates": [500, 3.91, 346.12]
+    },
+    {
+      "name": "Xihe",
+      "type": "G",
+      "radius": 13.5,
+      "coordinates": [440, 17.22, 65.74]
+    },
+    {
+      "name": "Xuange",
+      "type": "A",
+      "radius": 1.7,
+      "coordinates": [99, 64.67, 86.98]
+    },
+    {
+      "name": "Yed Posterior",
+      "type": "G",
+      "radius": 10.39,
+      "coordinates": [106.9, 30.81, 8.57]
+    },
+    {
+      "name": "Yed Prior",
+      "type": "M",
+      "radius": 59,
+      "coordinates": [171, 32.20, 8.84]
+    },
+    {
+      "name": "Yildun",
+      "type": "A",
+      "radius": 2.8,
+      "coordinates": [172, 28.24, 119.29]
+    },
+    {
+      "name": "Zaniah",
+      "type": "A",
+      "radius": 1,
+      "coordinates": [265, 61.19, 286.40]
+    },
+    {
+      "name": "Zaurak",
+      "type": "M",
+      "radius": 80,
+      "coordinates": [192, -44.47, 205.16]
+    },
+    {
+      "name": "Zavijava",
+      "type": "F",
+      "radius": 1.681,
+      "coordinates": [35.65, 60.76, 270.52]
+    },
+    {
+      "name": "Zhang",
+      "type": "G",
+      "radius": 14.69,
+      "coordinates": [264, 29.44, 251.24]
+    },
+    {
+      "name": "Zibal",
+      "type": "A",
+      "radius": 10.3,
+      "coordinates": [110, -51.31, 191.58]
+    },
+    {
+      "name": "Zosma",
+      "type": "A",
+      "radius": 2.14,
+      "coordinates": [58.4, 66.83, 224.23]
+    },
+    {
+      "name": "Zubenelgenubi",
+      "type": "F",
+      "radius": 1,
+      "coordinates": [74.9, 38.01, 340.33]
+    },
+    {
+      "name": "Zubenelhakrabi",
+      "type": "G",
+      "radius": 11.14,
+      "coordinates": [163, 32.20, 351.52]
+    },
+    {
+      "name": "Zubeneschamali",
+      "type": "B",
+      "radius": 4.9,
+      "coordinates": [185, 39.23, 352.02]
     }
   ]
 }
