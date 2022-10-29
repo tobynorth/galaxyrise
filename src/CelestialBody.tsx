@@ -80,5 +80,6 @@ export interface CelestialBodyProps {
   name: string,
   type: string,
   radius: number,
-  coordinates: Vector3
+  coordinates: Vector3,
+  enabled: boolean
 };

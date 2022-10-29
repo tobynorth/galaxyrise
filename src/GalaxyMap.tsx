@@ -30,6 +30,7 @@ export default function GalaxyMap() {
           <gridHelper args={[gridSize, gridSize]} />
           { celestialBodies
             .filter(c =>
+              c.enabled &&
               c.coordinates.x >= -MAX_HORIZ_DIST_FROM_ORIGIN &&
               c.coordinates.x <= MAX_HORIZ_DIST_FROM_ORIGIN &&
               c.coordinates.y >= Y_OFFSET &&
