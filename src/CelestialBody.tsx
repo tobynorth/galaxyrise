@@ -4,6 +4,15 @@ import { Vector3 } from 'three'
 const MAX_RADIUS : number = 0.5
 
 let getRenderColor = (type : string): string => {
+  switch (type) {
+    case "Black Hole":
+      return "black";
+    case "Neutron Star":
+      return "white";
+    case "Nebula":
+      return "purple";
+  }
+
   // Ignoring class subdivisions (0-9), at least for now
   let spectralClass = type[0];
   switch (spectralClass) {
@@ -12,6 +21,7 @@ let getRenderColor = (type : string): string => {
     case "B":
       return "skyblue";
     case "A":
+    case "D":
       return "white";
     case "F":
       return "lightyellow";
@@ -33,7 +43,10 @@ let getRenderColor = (type : string): string => {
 
 let getRenderRadius = (solarRadii: number): number => {
   let scale = 0;
-  if (solarRadii < 0.8) {
+  if (solarRadii < 0.05) {
+    // tiny (white dwarf/neutron star)
+    scale = 0.125;
+  } else if (solarRadii < 0.8) {
     // small (red/orange dwarf)
     scale = 0.25;
   } else if (solarRadii < 10) {
