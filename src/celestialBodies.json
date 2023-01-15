@@ -40,6 +40,256 @@
       "type": "M",
       "radius": 0.14,
       "coordinates": [8.724, -75.7, 175.49],
+    {
+      "name": "Ross 154",
+      "type": "M",
+      "radius": 0.2,
+      "coordinates": [9.7063, -10.28, 11.31],
+      "enabled": true
+    },
+    {
+      "name": "Ross 248",
+      "type": "M",
+      "radius": 0.19,
+      "coordinates": [10.3057, -16.94, 109.99],
+      "enabled": true
+    },
+    {
+      "name": "Ross 128",
+      "type": "M",
+      "radius": 0.2,
+      "coordinates": [11.01, 59.56, 270.15],
+      "enabled": true
+    },
+    {
+      "name": "Lacaille 9352",
+      "type": "M",
+      "radius": 0.47,
+      "coordinates": [10.72, -65.96, 5.1],
+      "enabled": true
+    },
+    {
+      "name": "EZ Aquarii",
+      "type": "M",
+      "radius": 0.47,
+      "coordinates": [11.1, -56.98, 47.07],
+      "enabled": false
+    },
+    {
+      "name": "Tau Ceti",
+      "type": "G",
+      "radius": 0.793,
+      "coordinates": [11.912, -73.44, 173.1],
+      "enabled": true
+    },
+    {
+      "name": "Luyten's Star",
+      "type": "M",
+      "radius": 0.35,
+      "coordinates": [12.348, 10.37, 212.34],
+      "enabled": true
+    },
+    {
+      "name": "Teegarden's Star",
+      "type": "M",
+      "radius": 0.107,
+      "coordinates": [12.497, -37.03, 160.26],
+      "enabled": true
+    },
+    {
+      "name": "Kapteyn's Star",
+      "type": "M",
+      "radius": 0.291,
+      "coordinates": [12.831, -36, 250.53],
+      "enabled": true
+    },
+    {
+      "name": "Van Maanen's Star",
+      "type": "D",
+      "radius": 0.0138,
+      "coordinates": [14.072, 5.39, 12.29],
+      "enabled": true
+    },
+    {
+      "name": "Groombridge 1618",
+      "type": "K",
+      "radius": 0.605,
+      "coordinates": [15.886, 52.15, 165.87],
+      "enabled": true
+    },
+    {
+      "name": "Delta Pavonis",
+      "type": "G",
+      "radius": 1.197,
+      "coordinates": [19.89, -32.42, 329.77],
+      "enabled": true
+    },
+    {
+      "name": "Navi",
+      "type": "B",
+      "radius": 10,
+      "coordinates": [550, -2.15, 123.58],
+      "enabled": true
+    },
+    {
+      "name": "VY Canis Majoris",
+      "type": "M",
+      "radius": 1420,
+      "coordinates": [3820, -5.07, 239.35],
+      "enabled": true
+    },
+    {
+      "name": "Stephenson 2-18",
+      "type": "M",
+      "radius": 2150,
+      "coordinates": [18900, -0.03, 26.1],
+      "enabled": true
+    },
+    {
+      "name": "UY Scuti",
+      "type": "M",
+      "radius": 1708,
+      "coordinates": [9500, -0.47, 19.14],
+      "enabled": true
+    },
+    {
+      "name": "TRAPPIST-1",
+      "type": "M",
+      "radius": 0.1192,
+      "coordinates": [40.66, -56.64, 69.71],
+      "enabled": true
+    },
+    {
+      "name": "Methuselah Star",
+      "type": "G",
+      "radius": 2.04,
+      "coordinates": [202.4, 33.61, 356.31],
+      "enabled": true
+    },
+    {
+      "name": "Przybylski's Star",
+      "type": "F",
+      "radius": 1.9,
+      "coordinates": [356.5, 14.3, 289.99],
+      "enabled": true
+    },
+    {
+      "name": "Tabby's Star",
+      "type": "F",
+      "radius": 1.58,
+      "coordinates": [1447, 6.64, 80.04],
+      "enabled": true
+    },
+    {
+      "name": "Helix Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [650, -57.12, 36.16],
+      "enabled": true
+    },
+    {
+      "name": "Abell 36",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [780, 14.68, 318.46],
+      "enabled": true
+    },
+    {
+      "name": "Medusa Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [1500, 14.24, 205.14],
+      "enabled": true
+    },
+    {
+      "name": "Cat's Eye Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [3300, 29.95, 96.47],
+      "enabled": true
+    },
+    {
+      "name": "Crab Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [6500, -5.78, 184.56],
+      "enabled": true
+    },
+    {
+      "name": "Eagle Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [5700, 0.81, 16.96],
+      "enabled": true
+    },
+    {
+      "name": "Horsehead Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [1375, -16.78, 206.96],
+      "enabled": true
+    },
+    {
+      "name": "Engraved Hourglass Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [8000, -4.94, 307.55],
+      "enabled": true
+    },
+    {
+      "name": "Eta Carinae / Carina Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [7500, -0.63, 287.6],
+      "enabled": true
+    },
+    {
+      "name": "Orion Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [1344, -19.38, 209.01],
+      "enabled": true
+    },
+    {
+      "name": "Trifid Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [4100, -0.29, 7.09],
+      "enabled": true
+    },
+    {
+      "name": "Pistol Star/Nebula",
+      "type": "Nebula",
+      "radius": 9999,
+      "coordinates": [25114, -0.07, 0.16],
+      "enabled": true
+    },
+    {
+      "name": "RX J1856.5−3754",
+      "type": "Neutron Star",
+      "radius": 0.0001,
+      "coordinates": [400, -17.21, 358.6],
+      "enabled": true
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Black Hole",
+      "radius": 9999,
+      "coordinates": [26673, -0.05, 359.94],
+      "enabled": true
+    },
+    {
+      "name": "Cygnus X-1",
+      "type": "Black Hole",
+      "radius": 21,
+      "coordinates": [7300, 3.07, 71.33],
+      "enabled": true
+    },
+    {
+      "name": "The Great Annihilator",
+      "type": "Black Hole",
+      "radius": 0.001,
+      "coordinates": [16000, -0.11, 359.12],
       "enabled": true
     },
 
