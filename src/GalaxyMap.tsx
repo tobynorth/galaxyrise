@@ -12,10 +12,8 @@ const Y_OFFSET: number = 0.5
 
 let convertToGridCoords = (coords: number[]) : Vector3 => {
   let v = new Vector3(...coords);
-  v.setFromSphericalCoords(v.x, (-1 * v.y + 90) * Math.PI / 180, (v.z + 90) * Math.PI / 180);
+  v.setFromSphericalCoords(v.x < 1 ? 0 : Math.log2(v.x), (-1 * v.y + 90) * Math.PI / 180, (v.z + 90) * Math.PI / 180);
   v.multiplyScalar(1 / LY_PER_UNIT);
-  v.round();
-  v.y += Y_OFFSET; // by default only centered in cell in 2 dimensions, so center it in 3rd as well
   return v;
 }
 

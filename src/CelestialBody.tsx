@@ -71,7 +71,7 @@ export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
     txt.id = "hover_label"
     txt.style.position = "absolute";
     txt.style.color = "white"
-    txt.innerHTML = props.name;
+    txt.innerHTML = `${props.name} (${props.coordinates.y.toFixed(2)})`;
     txt.style.top = 200 + "px";
     txt.style.left = 200 + "px";
     document.body.appendChild(txt);
@@ -81,7 +81,7 @@ export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
   
   return (
     <mesh
-      position={props.coordinates}
+      position={[props.coordinates.x, 0, props.coordinates.z]}
       scale={1}
       onPointerOver={() => hover(true)}
       onPointerOut={() => hover(false)}>
