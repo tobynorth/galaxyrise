@@ -17,15 +17,33 @@ let convertToGridCoords = (coords: number[]) : Vector3 => {
   return v;
 }
 
+const HexagonalGrid = ({ size = 2, circleCount = 10 }) => {
+  let hexagons = [];
+  let shift = false;
+  for (let row = -size * circleCount; row <= size * circleCount; row+=(size/2)) {
+    for (let col = -size * circleCount; col <= size * circleCount; col+=(size/2)) {
+      hexagons.push(
+        <mesh key={`${row}-${col}`} position={[col+(shift?1:0), 0, row * Math.sqrt(3)]} rotation={[-Math.PI / 2, 0, 0]}>
+          <ringGeometry args={[size/Math.sqrt(3), size/Math.sqrt(3), 6, 1, Math.PI / 6]} />
+          <meshBasicMaterial color="gray" wireframe />
+        </mesh>
+      );
+      shift = !shift;
+    }
+  }
+
+  return <>{hexagons}</>;
+};
+
+
 export default function GalaxyMap() {
   let celestialBodies : CelestialBodyProps[] = data.objects.map(c => {return {...c, coordinates: convertToGridCoords(c.coordinates)}});
-  let gridSize = MAX_HORIZ_UNITS_FROM_ORIGIN * 2 + 1;
   return (
       <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
           <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
-          <gridHelper args={[gridSize, gridSize]} />
+          <HexagonalGrid size={2} circleCount={7} />
           { celestialBodies
             .filter(c =>
               c.enabled &&
