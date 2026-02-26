@@ -1,5 +1,7 @@
 # galaxyrise
 
+<img width="2322" height="1722" alt="galaxyrise" src="https://github.com/user-attachments/assets/2a538529-eaca-450b-a818-bf589fd6c2cb" />
+
 Interactive 3D star map built with React and Three.js, visualizing ~250 real celestial bodies in their galactic positions, and optimized for use as a design tool for an original board game.
 
 ## About
