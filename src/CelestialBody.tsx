@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Vector3 } from 'three'
+import { Html } from '@react-three/drei'
 
 const MAX_RADIUS : number = .25
 
@@ -63,21 +64,7 @@ let getRenderRadius = (solarRadii: number): number => {
 }
 
 export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
-  const [hovered, hover] = useState(false)
-
-  
-  if (hovered) {
-    let txt = document.createElement("div");
-    txt.id = "hover_label"
-    txt.style.position = "absolute";
-    txt.style.color = "white"
-    txt.innerHTML = props.name;
-    txt.style.top = 200 + "px";
-    txt.style.left = 200 + "px";
-    document.body.appendChild(txt);
-  } else {
-    document.getElementById("hover_label")?.remove();
-  }
+  const [hovered, hover] = useState(false);
   
   return (
     <mesh
@@ -87,6 +74,11 @@ export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
       onPointerOut={() => hover(false)}>
       <sphereGeometry args={[getRenderRadius(props.radius)]} />
       <meshStandardMaterial color={getRenderColor(props.type)} />
+      {hovered && (
+        <Html style={{ pointerEvents: 'none' }}>
+          <div style={{ color: 'white', whiteSpace: 'nowrap' }}>{props.name}</div>
+        </Html>
+      )}
     </mesh>
   )
 }
