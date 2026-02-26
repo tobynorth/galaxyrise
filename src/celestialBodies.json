@@ -1,5 +1,83 @@
 {
     "objects":  [
+        {
+            "name": "Test 2 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [2, 0, 0],
+            "enabled": false
+          },
+          {
+            "name": "Test 4 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [4, 0, 0],
+            "enabled": false
+          },
+          {
+            "name": "Test 16 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [16, 0, 0],
+            "enabled": false
+          },
+          {
+            "name": "Test 2 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [2, 0, 180],
+            "enabled": false
+          },
+          {
+            "name": "Test 4 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [4, 0, 180],
+            "enabled": false
+          },
+          {
+            "name": "Test 16 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [16, 0, 180],
+            "enabled": false
+          },
+          {
+            "name": "Test 64 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [64, 0, 180],
+            "enabled": false
+          },
+          {
+            "name": "Test 256 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [256, 0, 180],
+            "enabled": false
+          },
+          {
+            "name": "Test 1024 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [1024, 0, 180],
+            "enabled": false
+          }, 
+          {
+            "name": "Test 4096 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [4096, 0, 180],
+            "enabled": false
+          }, 
+          {
+            "name": "Test 16384 ly flat",
+            "type": "Q",
+            "radius": 1.1,
+            "coordinates": [16384, 0, 180],
+            "enabled": false
+          },
+        
                     {
                         "radius":  0.00001,
                         "coordinates":  [
@@ -9,7 +87,7 @@
                                         ],
                         "name":  "Lich",
                         "type":  "Pulsar",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.00001,
@@ -20,7 +98,7 @@
                                         ],
                         "name":  "Cygnus X-1",
                         "type":  "Black Hole",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.0057,
@@ -31,7 +109,7 @@
                                         ],
                         "name":  "Lucy",
                         "type":  "D",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.01,
@@ -42,7 +120,7 @@
                                         ],
                         "name":  "Maru",
                         "type":  "D",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.011,
@@ -53,7 +131,7 @@
                                         ],
                         "name":  "W0855",
                         "type":  "L",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.0138,
@@ -64,7 +142,7 @@
                                         ],
                         "name":  "van Maanen\u0027s Star",
                         "type":  "D",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.085,
@@ -75,7 +153,7 @@
                                         ],
                         "name":  "Luhman 16",
                         "type":  "L",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.1192,
@@ -86,7 +164,7 @@
                                         ],
                         "name":  "TRAPPIST-1",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.14,
@@ -97,7 +175,7 @@
                                         ],
                         "name":  "UV Ceti",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.16,
@@ -108,7 +186,7 @@
                                         ],
                         "name":  "Wolf 359",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.189,
@@ -119,7 +197,7 @@
                                         ],
                         "name":  "Batsu",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.19,
@@ -130,7 +208,7 @@
                                         ],
                         "name":  "Ross 248",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.196,
@@ -141,7 +219,7 @@
                                         ],
                         "name":  "Barnard\u0027s Star",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.204,
@@ -152,7 +230,7 @@
                                         ],
                         "name":  "Orkaria",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.392,
@@ -163,7 +241,7 @@
                                         ],
                         "name":  "Lalande 21185",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.432,
@@ -174,7 +252,7 @@
                                         ],
                         "name":  "Noquisi",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.457,
@@ -185,7 +263,7 @@
                                         ],
                         "name":  "A�a�uca",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.63,
@@ -196,7 +274,7 @@
                                         ],
                         "name":  "Koeia",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.7,
@@ -207,7 +285,7 @@
                                         ],
                         "name":  "Felixvarela",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.72,
@@ -218,7 +296,7 @@
                                         ],
                         "name":  "Ceibo",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.72,
@@ -229,7 +307,7 @@
                                         ],
                         "name":  "Zembra",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.735,
@@ -240,7 +318,7 @@
                                         ],
                         "name":  "Ran",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.77,
@@ -251,7 +329,7 @@
                                         ],
                         "name":  "Pincoya",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.78,
@@ -262,7 +340,7 @@
                                         ],
                         "name":  "Natasha",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.793,
@@ -273,7 +351,7 @@
                                         ],
                         "name":  "Tau Ceti",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.81,
@@ -284,7 +362,7 @@
                                         ],
                         "name":  "Keid",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.817,
@@ -295,7 +373,7 @@
                                         ],
                         "name":  "Guniibuu",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.826,
@@ -306,7 +384,7 @@
                                         ],
                         "name":  "Pipoltr",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.84,
@@ -317,7 +395,7 @@
                                         ],
                         "name":  "Tapecue",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.844,
@@ -328,7 +406,7 @@
                                         ],
                         "name":  "Macondo",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.86,
@@ -339,7 +417,7 @@
                                         ],
                         "name":  "Karaka",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.87,
@@ -350,7 +428,7 @@
                                         ],
                         "name":  "M�rohu",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.885,
@@ -361,7 +439,7 @@
                                         ],
                         "name":  "Wattle",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.9,
@@ -372,7 +450,7 @@
                                         ],
                         "name":  "Malmok",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.923,
@@ -383,7 +461,7 @@
                                         ],
                         "name":  "Horna",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.943,
@@ -394,7 +472,7 @@
                                         ],
                         "name":  "Copernicus",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.949,
@@ -405,7 +483,7 @@
                                         ],
                         "name":  "U�ba",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.96,
@@ -416,7 +494,7 @@
                                         ],
                         "name":  "Amadioha",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  0.98,
@@ -427,7 +505,7 @@
                                         ],
                         "name":  "Emiw",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1,
@@ -438,7 +516,7 @@
                                         ],
                         "name":  "The Sun",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": true
                     },
                     {
                         "radius":  1.029,
@@ -449,7 +527,7 @@
                                         ],
                         "name":  "Nenque",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.08,
@@ -460,7 +538,7 @@
                                         ],
                         "name":  "Tupi",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.08,
@@ -471,7 +549,7 @@
                                         ],
                         "name":  "Berehynia",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.08,
@@ -482,7 +560,7 @@
                                         ],
                         "name":  "Absolutno",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.105,
@@ -493,7 +571,7 @@
                                         ],
                         "name":  "Mazaalai",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.17,
@@ -504,7 +582,7 @@
                                         ],
                         "name":  "Dofida",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.172,
@@ -515,7 +593,7 @@
                                         ],
                         "name":  "Chalawan",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.183,
@@ -526,7 +604,7 @@
                                         ],
                         "name":  "Poerava",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.198,
@@ -537,7 +615,7 @@
                                         ],
                         "name":  "Itonda",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.203,
@@ -548,7 +626,7 @@
                                         ],
                         "name":  "Moriah",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.2175,
@@ -559,7 +637,7 @@
                                         ],
                         "name":  "Rigil Kentaurus",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.229,
@@ -570,7 +648,7 @@
                                         ],
                         "name":  "Tup�",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.237,
@@ -581,7 +659,7 @@
                                         ],
                         "name":  "Helvetios",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.27,
@@ -592,7 +670,7 @@
                                         ],
                         "name":  "Uklun",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.32,
@@ -603,7 +681,7 @@
                                         ],
                         "name":  "Tevel",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.36,
@@ -614,7 +692,7 @@
                                         ],
                         "name":  "Cervantes",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.39,
@@ -625,7 +703,7 @@
                                         ],
                         "name":  "B�l�nos",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.39,
@@ -636,7 +714,7 @@
                                         ],
                         "name":  "Sika",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.4,
@@ -647,7 +725,7 @@
                                         ],
                         "name":  "Megrez",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.46,
@@ -658,7 +736,7 @@
                                         ],
                         "name":  "Sterrennacht",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.48,
@@ -669,7 +747,7 @@
                                         ],
                         "name":  "Titawin",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.49,
@@ -680,7 +758,7 @@
                                         ],
                         "name":  "Bubup",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.5007,
@@ -691,7 +769,7 @@
                                         ],
                         "name":  "Nushagak",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.53,
@@ -702,7 +780,7 @@
                                         ],
                         "name":  "Montuno",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.57,
@@ -713,7 +791,7 @@
                                         ],
                         "name":  "Altair",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.58,
@@ -724,7 +802,7 @@
                                         ],
                         "name":  "Gloas",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.58,
@@ -735,7 +813,7 @@
                                         ],
                         "name":  "Boyajian\u0027s Star",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.711,
@@ -746,7 +824,7 @@
                                         ],
                         "name":  "Sirius",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.76,
@@ -757,7 +835,7 @@
                                         ],
                         "name":  "Kosjenka",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.842,
@@ -768,7 +846,7 @@
                                         ],
                         "name":  "Fomalhaut",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.9,
@@ -779,7 +857,7 @@
                                         ],
                         "name":  "Przybylski\u0027s Star",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1.91,
@@ -790,7 +868,7 @@
                                         ],
                         "name":  "Deneb Algedi",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2,
@@ -801,7 +879,7 @@
                                         ],
                         "name":  "Eta Ursae Minoris",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.04,
@@ -812,7 +890,7 @@
                                         ],
                         "name":  "The Methusaleh Star",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.048,
@@ -823,7 +901,7 @@
                                         ],
                         "name":  "Procyon",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.15,
@@ -834,7 +912,7 @@
                                         ],
                         "name":  "Inquill",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.17,
@@ -845,7 +923,7 @@
                                         ],
                         "name":  "Mpingo",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.34,
@@ -856,7 +934,7 @@
                                         ],
                         "name":  "Nosaxa",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.362,
@@ -867,7 +945,7 @@
                                         ],
                         "name":  "Vega",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.4,
@@ -878,7 +956,7 @@
                                         ],
                         "name":  "Castor",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.4,
@@ -889,7 +967,7 @@
                                         ],
                         "name":  "Mizar",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.53,
@@ -900,7 +978,7 @@
                                         ],
                         "name":  "Revati",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.582,
@@ -911,7 +989,7 @@
                                         ],
                         "name":  "Asterope",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.73,
@@ -922,7 +1000,7 @@
                                         ],
                         "name":  "Algol",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.8,
@@ -933,7 +1011,7 @@
                                         ],
                         "name":  "Yildun",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2.835,
@@ -944,7 +1022,7 @@
                                         ],
                         "name":  "Wurren",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.021,
@@ -955,7 +1033,7 @@
                                         ],
                         "name":  "Merak",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.04,
@@ -966,7 +1044,7 @@
                                         ],
                         "name":  "Phecda",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.335,
@@ -977,7 +1055,7 @@
                                         ],
                         "name":  "Nikawiy",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.4,
@@ -988,7 +1066,7 @@
                                         ],
                         "name":  "Alkaid",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.43,
@@ -999,7 +1077,7 @@
                                         ],
                         "name":  "Caph",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.59,
@@ -1010,7 +1088,7 @@
                                         ],
                         "name":  "Maia",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.701,
@@ -1021,7 +1099,7 @@
                                         ],
                         "name":  "Pleione",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.72,
@@ -1032,7 +1110,7 @@
                                         ],
                         "name":  "Taygeta",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.9,
@@ -1043,7 +1121,7 @@
                                         ],
                         "name":  "Ruchbah",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  3.9,
@@ -1054,7 +1132,7 @@
                                         ],
                         "name":  "Xamidimura",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.109,
@@ -1065,7 +1143,7 @@
                                         ],
                         "name":  "Citadelle",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.14,
@@ -1076,7 +1154,7 @@
                                         ],
                         "name":  "Alioth",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.35,
@@ -1087,7 +1165,7 @@
                                         ],
                         "name":  "Regulus",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.4,
@@ -1098,7 +1176,7 @@
                                         ],
                         "name":  "Polaris Australis",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.4,
@@ -1109,7 +1187,7 @@
                                         ],
                         "name":  "Celaeno",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.4,
@@ -1120,7 +1198,7 @@
                                         ],
                         "name":  "Chamukuy",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.55,
@@ -1131,7 +1209,7 @@
                                         ],
                         "name":  "Belel",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.6,
@@ -1142,7 +1220,7 @@
                                         ],
                         "name":  "Hunahp�",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.83,
@@ -1153,7 +1231,7 @@
                                         ],
                         "name":  "Peacock",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.9,
@@ -1164,7 +1242,7 @@
                                         ],
                         "name":  "Zubeneschamali",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  4.93,
@@ -1175,7 +1253,7 @@
                                         ],
                         "name":  "Errai",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  5,
@@ -1186,7 +1264,7 @@
                                         ],
                         "name":  "Fang",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  5.13,
@@ -1197,7 +1275,7 @@
                                         ],
                         "name":  "Fawaris",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  5.6,
@@ -1208,7 +1286,7 @@
                                         ],
                         "name":  "Muliphein",
                         "type":  "",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  5.75,
@@ -1219,7 +1297,7 @@
                                         ],
                         "name":  "Bellatrix",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6,
@@ -1230,7 +1308,7 @@
                                         ],
                         "name":  "Regor",
                         "type":  "W",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.06,
@@ -1241,7 +1319,7 @@
                                         ],
                         "name":  "Electra",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.1,
@@ -1252,7 +1330,7 @@
                                         ],
                         "name":  "Segin",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.15,
@@ -1263,7 +1341,7 @@
                                         ],
                         "name":  "Zeta Ursae Minoris",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.5,
@@ -1274,7 +1352,7 @@
                                         ],
                         "name":  "Paikauhale",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.78,
@@ -1285,7 +1363,7 @@
                                         ],
                         "name":  "Achernar",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  6.8,
@@ -1296,7 +1374,7 @@
                                         ],
                         "name":  "Kaus Australis",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  7,
@@ -1307,7 +1385,7 @@
                                         ],
                         "name":  "Pipirima",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  7.47,
@@ -1318,7 +1396,7 @@
                                         ],
                         "name":  "Spica",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  7.7,
@@ -1329,7 +1407,7 @@
                                         ],
                         "name":  "Merope",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  7.8,
@@ -1340,7 +1418,7 @@
                                         ],
                         "name":  "Acrux",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  7.9,
@@ -1351,7 +1429,7 @@
                                         ],
                         "name":  "Atlas",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  8,
@@ -1362,7 +1440,7 @@
                                         ],
                         "name":  "Imai",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  8.4,
@@ -1373,7 +1451,7 @@
                                         ],
                         "name":  "Mimosa",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  8.8,
@@ -1384,7 +1462,7 @@
                                         ],
                         "name":  "Formosa",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9,
@@ -1395,7 +1473,7 @@
                                         ],
                         "name":  "Hadar",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9.06,
@@ -1406,7 +1484,7 @@
                                         ],
                         "name":  "Pollux",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9.3,
@@ -1417,7 +1495,7 @@
                                         ],
                         "name":  "Alcyone",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9.7,
@@ -1428,7 +1506,7 @@
                                         ],
                         "name":  "Mirzam",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  10,
@@ -1439,7 +1517,7 @@
                                         ],
                         "name":  "Navi",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  10.64,
@@ -1450,7 +1528,7 @@
                                         ],
                         "name":  "Tonatiuh",
                         "type":  "",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  10.82,
@@ -1461,7 +1539,7 @@
                                         ],
                         "name":  "Aljanah",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  11.98,
@@ -1472,7 +1550,7 @@
                                         ],
                         "name":  "Capella",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  12.692,
@@ -1483,7 +1561,7 @@
                                         ],
                         "name":  "Ain",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  13.9,
@@ -1494,7 +1572,7 @@
                                         ],
                         "name":  "Adhara",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  14.9,
@@ -1505,7 +1583,7 @@
                                         ],
                         "name":  "Hamal",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  15,
@@ -1516,7 +1594,7 @@
                                         ],
                         "name":  "Pherkad",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  16.5,
@@ -1527,7 +1605,7 @@
                                         ],
                         "name":  "Mintaka",
                         "type":  "O",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  17,
@@ -1538,7 +1616,7 @@
                                         ],
                         "name":  "Kornephoros",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  17.03,
@@ -1549,7 +1627,7 @@
                                         ],
                         "name":  "Dubhe",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  19,
@@ -1560,7 +1638,7 @@
                                         ],
                         "name":  "Epsilon Ursae Minoris",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  20,
@@ -1571,7 +1649,7 @@
                                         ],
                         "name":  "Alnitak",
                         "type":  "O",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  22.2,
@@ -1582,7 +1660,7 @@
                                         ],
                         "name":  "Saiph",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  25.4,
@@ -1593,7 +1671,7 @@
                                         ],
                         "name":  "Arcturus",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  26.48,
@@ -1604,7 +1682,7 @@
                                         ],
                         "name":  "Alpherg",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  28.41,
@@ -1615,7 +1693,7 @@
                                         ],
                         "name":  "Ginan",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  32.4,
@@ -1626,7 +1704,7 @@
                                         ],
                         "name":  "Alnilam",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  37.2,
@@ -1637,7 +1715,7 @@
                                         ],
                         "name":  "Sagittarius A*",
                         "type":  "Black Hole",
-                        "enabled":  true
+                        "enabled": true
                     },
                     {
                         "radius":  37.5,
@@ -1648,7 +1726,7 @@
                                         ],
                         "name":  "Polaris",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  42.06,
@@ -1659,7 +1737,7 @@
                                         ],
                         "name":  "Kochab",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  45.1,
@@ -1670,7 +1748,7 @@
                                         ],
                         "name":  "Aldebaran",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  45.39,
@@ -1681,7 +1759,7 @@
                                         ],
                         "name":  "Schedar",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  47.88,
@@ -1692,7 +1770,7 @@
                                         ],
                         "name":  "Sadalsuud",
                         "type":  "G",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  54,
@@ -1703,7 +1781,7 @@
                                         ],
                         "name":  "Aludra",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  56.7,
@@ -1714,7 +1792,7 @@
                                         ],
                         "name":  "Felis",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  61,
@@ -1725,7 +1803,7 @@
                                         ],
                         "name":  "Tarf",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  62,
@@ -1736,7 +1814,7 @@
                                         ],
                         "name":  "Albireo",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  71,
@@ -1747,7 +1825,7 @@
                                         ],
                         "name":  "Canopus",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  78.9,
@@ -1758,7 +1836,7 @@
                                         ],
                         "name":  "Rigel",
                         "type":  "B",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  120,
@@ -1769,7 +1847,7 @@
                                         ],
                         "name":  "Gacrux",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  150,
@@ -1780,7 +1858,7 @@
                                         ],
                         "name":  "Sadr",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  180,
@@ -1791,7 +1869,7 @@
                                         ],
                         "name":  "Tiaki",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  203,
@@ -1802,7 +1880,7 @@
                                         ],
                         "name":  "Deneb",
                         "type":  "A",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  215,
@@ -1813,7 +1891,7 @@
                                         ],
                         "name":  "Wezen",
                         "type":  "F",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  240,
@@ -1824,7 +1902,7 @@
                                         ],
                         "name":  "Eta Carinae / Homunculus Nebula",
                         "type":  "O",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  399,
@@ -1835,7 +1913,7 @@
                                         ],
                         "name":  "Unurgunite",
                         "type":  "K",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  420,
@@ -1846,7 +1924,7 @@
                                         ],
                         "name":  "Pistol Star / Pistol Nebula",
                         "type":  "O",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  422,
@@ -1857,7 +1935,7 @@
                                         ],
                         "name":  "La Superba",
                         "type":  "C",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  680,
@@ -1868,7 +1946,7 @@
                                         ],
                         "name":  "Antares",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  764,
@@ -1879,7 +1957,7 @@
                                         ],
                         "name":  "Betelgeuse",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  1420,
@@ -1890,7 +1968,40 @@
                                         ],
                         "name":  "VY Canis Majoris / Sh2-310",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
+                    },
+                    {
+                        "radius":  1420,
+                        "coordinates":  [
+                                            4501,
+                                            -5.07,
+                                            239.35
+                                        ],
+                        "name":  "VY Canis Majoris / Sh2-310 farther",
+                        "type":  "M",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  1420,
+                        "coordinates":  [
+                                            3820,
+                                            -6.5,
+                                            234.1
+                                        ],
+                        "name":  "VY Canis Majoris / Sh2-310 1",
+                        "type":  "M",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  1420,
+                        "coordinates":  [
+                                            3820,
+                                            -3.86,
+                                            244.57
+                                        ],
+                        "name":  "VY Canis Majoris / Sh2-310 2",
+                        "type":  "M",
+                        "enabled": false
                     },
                     {
                         "radius":  1708,
@@ -1901,18 +2012,18 @@
                                         ],
                         "name":  "UY Scuti",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  2150,
                         "coordinates":  [
-                                            18900,
+                                            9000,
                                             -0.03,
                                             26.1
                                         ],
                         "name":  "Stephenson 2-18",
                         "type":  "M",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
@@ -1923,7 +2034,51 @@
                                         ],
                         "name":  "Orion Nebula",
                         "type":  "Nebula",
-                        "enabled":  true
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            1470,
+                                            -6.84,
+                                            258.19
+                                        ],
+                        "name":  "Gum Nebula",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            2349.5,
+                                            -6.84,
+                                            258.19
+                                        ],
+                        "name":  "Gum Nebula farther",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            1470,
+                                            -11.82,
+                                            235.14
+                                        ],
+                        "name":  "Gum Nebula 1",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            1470,
+                                            -4.57,
+                                            274.86
+                                        ],
+                        "name":  "Gum Nebula 2",
+                        "type":  "Nebula",
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
@@ -1934,18 +2089,128 @@
                                         ],
                         "name":  "Helix Nebula",
                         "type":  "Nebula",
-                        "enabled":  true
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            652.87,
+                                            -57.12,
+                                            36.16
+                                        ],
+                        "name":  "Helix Nebula farther",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            650,
+                                            -56.7,
+                                            36.4
+                                        ],
+                        "name":  "Helix Nebula 4",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            650,
+                                            -57.4,
+                                            35.9
+                                        ],
+                        "name":  "Helix Nebula 1",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            650,
+                                            -57.12,
+                                            36.16
+                                        ],
+                        "name":  "Helix Nebula 2",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            650,
+                                            -57.12,
+                                            36.16
+                                        ],
+                        "name":  "Helix Nebula 3",
+                        "type":  "Nebula",
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
                         "coordinates":  [
                                             8500,
-                                            -0.64,
-                                            287.6
+                                            -0.79,
+                                            287.7
                                         ],
                         "name":  "Carina Nebula",
                         "type":  "Nebula",
-                        "enabled":  true
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            8730,
+                                            -0.79,
+                                            287.7
+                                        ],
+                        "name":  "Carina Nebula farther",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            8500,
+                                            -0.15,
+                                            286.8
+                                        ],
+                        "name":  "Carina Nebula side 1",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            8500,
+                                            -1.45,
+                                            288.6
+                                        ],
+                        "name":  "Carina Nebula side 2",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            8500,
+                                            0.34,
+                                            287.7
+                                        ],
+                        "name":  "Carina Nebula side 3",
+                        "type":  "Nebula",
+                        "enabled": false
+                    },
+                    {
+                        "radius":  9999,
+                        "coordinates":  [
+                                            8500,
+                                            -1.9,
+                                            287.7
+                                        ],
+                        "name":  "Carina Nebula side 4",
+                        "type":  "Nebula",
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
@@ -1955,8 +2220,8 @@
                                             206.96
                                         ],
                         "name":  "Horsehead Nebula",
-                        "type":  "Dark Nebula",
-                        "enabled":  true
+                        "type":  "Nebula",
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
@@ -1967,7 +2232,7 @@
                                         ],
                         "name":  "Eagle Nebula",
                         "type":  "Nebula",
-                        "enabled":  true
+                        "enabled": false
                     },
                     {
                         "radius":  9999,
@@ -1978,7 +2243,498 @@
                                         ],
                         "name":  "Crab Nebula",
                         "type":  "Nebula",
-                        "enabled":  true
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Cat\u0027s Eye Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            3300,
+                            29.95,
+                            96.47
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Sagarmatha",
+                        "type":  "G",
+                        "radius":  1.033,
+                        "coordinates":  [161.8, 53.26, 270.29],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "SN 1572",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8900,
+                            1.42,
+                            120.09
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "SN 1572 1",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8900,
+                            1.36,
+                            120.05
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "SN 1572 2",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8900,
+                            1.49,
+                            120.12
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "SN 1572 3",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8900,
+                            1.41,
+                            120.09
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "SN 1572 4",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8900,
+                            1.41,
+                            120.09
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Alpha Tucanae",
+                        "type":  "K",
+                        "radius":  37,
+                        "coordinates":  [
+                            184,
+                            -47.96,
+                            330.22
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Gamma Microscopii",
+                        "type":  "G",
+                        "radius":  10,
+                        "coordinates":  [
+                            223,
+                            -40.34,
+                            12.34
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Alpha Muscae",
+                        "type":  "B",
+                        "radius":  4.8,
+                        "coordinates":  [
+                            315,
+                            -6.3,
+                            301.66
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "The Delaware Diamond",
+                        "type":  "G",
+                        "radius":  1,
+                        "coordinates":  [
+                            637.1055,
+                            47.72,
+                            169.99
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Herschel's Wonder Star",
+                        "type":  "B",
+                        "radius":  7.91,
+                        "coordinates":  [
+                            700,
+                            -8.21,
+                            216.66
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Beta Camelopardalis",
+                        "type":  "G",
+                        "radius":  58,
+                        "coordinates":  [
+                            870,
+                            11.38,
+                            149.57
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Gaia BH1",
+                        "type":  "Black Hole",
+                        "radius":  0.00003,
+                        "coordinates":  [
+                            1560,
+                            18.05,
+                            120.09
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Lemon Slice Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            4500,
+                            34.54,
+                            123.65
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Rho Cassiopeiae",
+                        "type":  "G",
+                        "radius":  2000,
+                        "coordinates":  [
+                            8150,
+                            -4.52,
+                            115.3
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Mago",
+                        "type":  "G",
+                        "radius":  2000,
+                        "coordinates":  [
+                            396.8,
+                            17.12,
+                            142.12
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Illyrian",
+                        "type":  "G",
+                        "radius":  0.001,
+                        "coordinates":  [
+                            413,
+                            47.77,
+                            190.03
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Herbig-Haro 24",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            1350,
+                            -14.56,
+                            205.48
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "The Cosmic Tornado",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            625,
+                            -15.87,
+                            297.22
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Ring Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            2567,
+                            13.98,
+                            63.17
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Southern Ring Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            2000,
+                            12.4,
+                            272.11
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "The Vela Pulsar",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            959,
+                            -2.79,
+                            263.55
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Butterfly Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            3400,
+                            1.06,
+                            349.51
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Dumbbell Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            1360,
+                            -3.7,
+                            60.84
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Engraved Hourglass Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            8000,
+                            -4.94,
+                            307.55
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Glowing Eye Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            6500,
+                            -5.94,
+                            29.23
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Heart Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            7500,
+                            0.92,
+                            134.73
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Soul Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            7500,
+                            0.92,
+                            137.22
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Witch Head Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            1000,
+                            -27.89,
+                            207.4
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Spaghetti Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            3000,
+                            -1.82,
+                            180.17
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "LL Pegasi",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            4200,
+                            -40.35,
+                            93.53
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Firebird Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            4000,
+                            -1.23,
+                            336.76
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Veil Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            2400,
+                            -7.63,
+                            73.29
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Frosty Leo Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            3000,
+                            42.73,
+                            221.89
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Lagoon Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            4100,
+                            -1.17,
+                            5.96
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Cone Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            2700,
+                            2.22,
+                            202.96
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Red Spider Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            1360,
+                            0.74,
+                            10.1
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "name":  "Trifid Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            4100,
+                            -0.29,
+                            7.09
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "Bubble Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            7100,
+                            0.23,
+                            112.24
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "The Cosmic Lightsaber",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            1350,
+                            -14.6,
+                            205.53
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "Dark Horse Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            450,
+                            5.04,
+                            1.47
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "Lion Nebula",
+                        "type":  "Nebula",
+                        "radius":  9999,
+                        "coordinates":  [
+                            6520,
+                            17.4,
+                            197.88
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "Kapteyn's Star",
+                        "type":  "M",
+                        "radius":  9999,
+                        "coordinates":  [
+                            12.83,
+                            -36,
+                            250.53
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "name":  "Calvera",
+                        "type":  "Neutron Star",
+                        "radius":  9999,
+                        "coordinates":  [
+                            600,
+                            37.02,
+                            118.32
+                        ],
+                        "enabled": true
                     }
                 ]
 }
