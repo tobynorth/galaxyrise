@@ -39,8 +39,8 @@ const HexagonalGrid = ({ size = 2, circleCount = 10 }) => {
 export default function GalaxyMap() {
   let celestialBodies : CelestialBodyProps[] = data.objects.map(c => {return {...c, coordinates: convertToGridCoords(c.coordinates)}});
   return (
-      <Canvas camera={{fov: 25, position: [0, 50, 40] }} >
-          <OrbitControls enablePan={false} enableZoom={true} enableRotate={true} />
+      <Canvas camera={{fov: 25, position: [-40, 15, 30] }} >
+          <OrbitControls enablePan={true} enableZoom={true} enableRotate={true} />
           <ambientLight />
           <color attach="background" args={["black"]} />
           <HexagonalGrid size={2} circleCount={7} />

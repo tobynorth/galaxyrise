@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import { Vector3 } from 'three'
 
-const MAX_RADIUS : number = 0.5
+const MAX_RADIUS : number = .25
 
 let getRenderColor = (type : string): string => {
   switch (type) {
     case "Black Hole":
-      return "black";
+      return "grey";
     case "Neutron Star":
       return "white";
     case "Nebula":
@@ -71,7 +71,7 @@ export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
     txt.id = "hover_label"
     txt.style.position = "absolute";
     txt.style.color = "white"
-    txt.innerHTML = `${props.name} (${props.coordinates.y.toFixed(2)})`;
+    txt.innerHTML = props.name;
     txt.style.top = 200 + "px";
     txt.style.left = 200 + "px";
     document.body.appendChild(txt);
@@ -81,7 +81,7 @@ export function CelestialBody(props: CelestialBodyProps) : JSX.Element {
   
   return (
     <mesh
-      position={[props.coordinates.x, 0, props.coordinates.z]}
+      position={[props.coordinates.x, props.coordinates.y, props.coordinates.z]}
       scale={1}
       onPointerOver={() => hover(true)}
       onPointerOut={() => hover(false)}>
